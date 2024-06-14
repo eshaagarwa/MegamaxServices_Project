@@ -1,0 +1,402 @@
+[01-May-2024 06:11:32 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/maxsdepf/public_html/Backend/asset.php:8
+Stack trace:
+#0 /home/maxsdepf/public_html/Backend/asset.php(8): mysqli_connect()
+#1 /home/maxsdepf/public_html/Backend/Function.php(6): include('/home/maxsdepf/...')
+#2 /home/maxsdepf/public_html/Backend/Function.php(94): contact()
+#3 {main}
+  thrown in /home/maxsdepf/public_html/Backend/asset.php on line 8
+[01-May-2024 07:12:33 UTC] PHP Warning:  Undefined array key "resume" in /home/maxsdepf/public_html/Backend/Function.php on line 102
+[01-May-2024 07:12:33 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/maxsdepf/public_html/Backend/Function.php on line 102
+[01-May-2024 07:12:33 UTC] PHP Warning:  Undefined array key "resume" in /home/maxsdepf/public_html/Backend/Function.php on line 110
+[01-May-2024 07:12:33 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/maxsdepf/public_html/Backend/Function.php on line 110
+[01-May-2024 07:12:33 UTC] PHP Warning:  Undefined array key "resume" in /home/maxsdepf/public_html/Backend/Function.php on line 113
+[01-May-2024 07:12:33 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/maxsdepf/public_html/Backend/Function.php on line 113
+[01-May-2024 07:16:23 UTC] PHP Warning:  Undefined array key "resume" in /home/maxsdepf/public_html/Backend/Function.php on line 102
+[01-May-2024 07:16:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/maxsdepf/public_html/Backend/Function.php on line 102
+[01-May-2024 07:16:23 UTC] PHP Warning:  Undefined array key "resume" in /home/maxsdepf/public_html/Backend/Function.php on line 110
+[01-May-2024 07:16:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/maxsdepf/public_html/Backend/Function.php on line 110
+[01-May-2024 07:16:23 UTC] PHP Warning:  Undefined array key "resume" in /home/maxsdepf/public_html/Backend/Function.php on line 113
+[01-May-2024 07:16:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/maxsdepf/public_html/Backend/Function.php on line 113
+[01-May-2024 07:16:40 UTC] PHP Warning:  Undefined array key "resume" in /home/maxsdepf/public_html/Backend/Function.php on line 102
+[01-May-2024 07:16:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/maxsdepf/public_html/Backend/Function.php on line 102
+[01-May-2024 07:16:40 UTC] PHP Warning:  Undefined array key "resume" in /home/maxsdepf/public_html/Backend/Function.php on line 110
+[01-May-2024 07:16:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/maxsdepf/public_html/Backend/Function.php on line 110
+[01-May-2024 07:16:40 UTC] PHP Warning:  Undefined array key "resume" in /home/maxsdepf/public_html/Backend/Function.php on line 113
+[01-May-2024 07:16:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/maxsdepf/public_html/Backend/Function.php on line 113
+[01-May-2024 07:19:39 UTC] PHP Warning:  Undefined array key "resume" in /home/maxsdepf/public_html/Backend/Function.php on line 102
+[01-May-2024 07:19:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/maxsdepf/public_html/Backend/Function.php on line 102
+[01-May-2024 07:19:39 UTC] PHP Warning:  Undefined array key "resume" in /home/maxsdepf/public_html/Backend/Function.php on line 110
+[01-May-2024 07:19:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/maxsdepf/public_html/Backend/Function.php on line 110
+[01-May-2024 07:19:39 UTC] PHP Warning:  Undefined array key "resume" in /home/maxsdepf/public_html/Backend/Function.php on line 113
+[01-May-2024 07:19:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/maxsdepf/public_html/Backend/Function.php on line 113
+[01-May-2024 07:22:39 UTC] PHP Warning:  Undefined array key "resume" in /home/maxsdepf/public_html/Backend/Function.php on line 102
+[01-May-2024 07:22:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/maxsdepf/public_html/Backend/Function.php on line 102
+[01-May-2024 07:22:39 UTC] PHP Warning:  Undefined array key "resume" in /home/maxsdepf/public_html/Backend/Function.php on line 110
+[01-May-2024 07:22:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/maxsdepf/public_html/Backend/Function.php on line 110
+[01-May-2024 07:22:39 UTC] PHP Warning:  Undefined array key "resume" in /home/maxsdepf/public_html/Backend/Function.php on line 113
+[01-May-2024 07:22:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/maxsdepf/public_html/Backend/Function.php on line 113
+[01-May-2024 07:27:52 UTC] PHP Warning:  Undefined array key "resume" in /home/maxsdepf/public_html/Backend/Function.php on line 92
+[01-May-2024 07:27:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/maxsdepf/public_html/Backend/Function.php on line 92
+[01-May-2024 07:27:52 UTC] PHP Warning:  Undefined array key "resume" in /home/maxsdepf/public_html/Backend/Function.php on line 137
+[01-May-2024 07:27:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/maxsdepf/public_html/Backend/Function.php on line 137
+[01-May-2024 07:29:20 UTC] PHP Warning:  Undefined array key "resume" in /home/maxsdepf/public_html/Backend/Function.php on line 92
+[01-May-2024 07:29:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/maxsdepf/public_html/Backend/Function.php on line 92
+[01-May-2024 07:29:20 UTC] PHP Warning:  Undefined array key "resume" in /home/maxsdepf/public_html/Backend/Function.php on line 137
+[01-May-2024 07:29:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/maxsdepf/public_html/Backend/Function.php on line 137
+[01-May-2024 07:29:38 UTC] PHP Warning:  Undefined array key "resume" in /home/maxsdepf/public_html/Backend/Function.php on line 92
+[01-May-2024 07:29:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/maxsdepf/public_html/Backend/Function.php on line 92
+[01-May-2024 07:29:38 UTC] PHP Warning:  Undefined array key "resume" in /home/maxsdepf/public_html/Backend/Function.php on line 137
+[01-May-2024 07:29:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/maxsdepf/public_html/Backend/Function.php on line 137
+[01-May-2024 07:30:18 UTC] PHP Warning:  Undefined array key "resume" in /home/maxsdepf/public_html/Backend/Function.php on line 102
+[01-May-2024 07:30:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/maxsdepf/public_html/Backend/Function.php on line 102
+[01-May-2024 07:30:18 UTC] PHP Warning:  Undefined array key "resume" in /home/maxsdepf/public_html/Backend/Function.php on line 110
+[01-May-2024 07:30:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/maxsdepf/public_html/Backend/Function.php on line 110
+[01-May-2024 07:30:18 UTC] PHP Warning:  Undefined array key "resume" in /home/maxsdepf/public_html/Backend/Function.php on line 113
+[01-May-2024 07:30:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/maxsdepf/public_html/Backend/Function.php on line 113
+[01-May-2024 07:32:41 UTC] PHP Warning:  Undefined array key "resume" in /home/maxsdepf/public_html/Backend/Function.php on line 91
+[01-May-2024 07:32:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/maxsdepf/public_html/Backend/Function.php on line 91
+[01-May-2024 07:32:41 UTC] PHP Warning:  Undefined array key "resume" in /home/maxsdepf/public_html/Backend/Function.php on line 136
+[01-May-2024 07:32:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/maxsdepf/public_html/Backend/Function.php on line 136
+[01-May-2024 07:32:54 UTC] PHP Warning:  Undefined array key "resume" in /home/maxsdepf/public_html/Backend/Function.php on line 91
+[01-May-2024 07:32:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/maxsdepf/public_html/Backend/Function.php on line 91
+[01-May-2024 07:32:54 UTC] PHP Warning:  Undefined array key "resume" in /home/maxsdepf/public_html/Backend/Function.php on line 136
+[01-May-2024 07:32:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/maxsdepf/public_html/Backend/Function.php on line 136
+[01-May-2024 07:35:50 UTC] PHP Parse error:  Unclosed '{' on line 86 in /home/maxsdepf/public_html/Backend/Function.php on line 165
+[01-May-2024 07:35:53 UTC] PHP Parse error:  Unclosed '{' on line 86 in /home/maxsdepf/public_html/Backend/Function.php on line 165
+[01-May-2024 07:39:01 UTC] PHP Parse error:  Unmatched '}' in /home/maxsdepf/public_html/Backend/Function.php on line 140
+[01-May-2024 07:39:39 UTC] PHP Warning:  Undefined array key "resume" in /home/maxsdepf/public_html/Backend/Function.php on line 96
+[01-May-2024 07:39:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/maxsdepf/public_html/Backend/Function.php on line 96
+[01-May-2024 07:40:28 UTC] PHP Warning:  Undefined array key "resume" in /home/maxsdepf/public_html/Backend/Function.php on line 96
+[01-May-2024 07:40:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/maxsdepf/public_html/Backend/Function.php on line 96
+[01-May-2024 07:43:45 UTC] PHP Warning:  Undefined array key "resume" in /home/maxsdepf/public_html/Backend/Function.php on line 93
+[01-May-2024 07:43:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/maxsdepf/public_html/Backend/Function.php on line 93
+[01-May-2024 07:44:55 UTC] PHP Warning:  Undefined array key "resume" in /home/maxsdepf/public_html/Backend/Function.php on line 93
+[01-May-2024 07:44:55 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/maxsdepf/public_html/Backend/Function.php on line 93
+[01-May-2024 07:45:04 UTC] PHP Warning:  Undefined array key "resume" in /home/maxsdepf/public_html/Backend/Function.php on line 93
+[01-May-2024 07:45:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/maxsdepf/public_html/Backend/Function.php on line 93
+[01-May-2024 07:46:06 UTC] PHP Warning:  Undefined array key "resume" in /home/maxsdepf/public_html/Backend/Function.php on line 93
+[01-May-2024 07:46:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/maxsdepf/public_html/Backend/Function.php on line 93
+[01-May-2024 07:46:08 UTC] PHP Warning:  Undefined array key "resume" in /home/maxsdepf/public_html/Backend/Function.php on line 93
+[01-May-2024 07:46:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/maxsdepf/public_html/Backend/Function.php on line 93
+[01-May-2024 07:46:12 UTC] PHP Warning:  Undefined array key "resume" in /home/maxsdepf/public_html/Backend/Function.php on line 93
+[01-May-2024 07:46:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/maxsdepf/public_html/Backend/Function.php on line 93
+[01-May-2024 07:47:28 UTC] PHP Warning:  Undefined array key "resume" in /home/maxsdepf/public_html/Backend/Function.php on line 93
+[01-May-2024 07:47:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/maxsdepf/public_html/Backend/Function.php on line 93
+[01-May-2024 07:47:28 UTC] PHP Warning:  Undefined array key "resume" in /home/maxsdepf/public_html/Backend/Function.php on line 97
+[01-May-2024 07:47:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/maxsdepf/public_html/Backend/Function.php on line 97
+[01-May-2024 07:47:28 UTC] PHP Fatal error:  Uncaught TypeError: mime_content_type(): Argument #1 ($filename) must be of type resource|string, null given in /home/maxsdepf/public_html/Backend/Function.php:97
+Stack trace:
+#0 /home/maxsdepf/public_html/Backend/Function.php(97): mime_content_type()
+#1 {main}
+  thrown in /home/maxsdepf/public_html/Backend/Function.php on line 97
+[01-May-2024 07:47:50 UTC] PHP Warning:  Undefined array key "resume" in /home/maxsdepf/public_html/Backend/Function.php on line 93
+[01-May-2024 07:47:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/maxsdepf/public_html/Backend/Function.php on line 93
+[01-May-2024 07:47:50 UTC] PHP Warning:  Undefined array key "resume" in /home/maxsdepf/public_html/Backend/Function.php on line 97
+[01-May-2024 07:47:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/maxsdepf/public_html/Backend/Function.php on line 97
+[01-May-2024 07:47:50 UTC] PHP Fatal error:  Uncaught TypeError: mime_content_type(): Argument #1 ($filename) must be of type resource|string, null given in /home/maxsdepf/public_html/Backend/Function.php:97
+Stack trace:
+#0 /home/maxsdepf/public_html/Backend/Function.php(97): mime_content_type()
+#1 {main}
+  thrown in /home/maxsdepf/public_html/Backend/Function.php on line 97
+[01-May-2024 07:48:09 UTC] PHP Warning:  Undefined array key "resume" in /home/maxsdepf/public_html/Backend/Function.php on line 93
+[01-May-2024 07:48:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/maxsdepf/public_html/Backend/Function.php on line 93
+[01-May-2024 07:48:09 UTC] PHP Warning:  Undefined array key "resume" in /home/maxsdepf/public_html/Backend/Function.php on line 97
+[01-May-2024 07:48:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/maxsdepf/public_html/Backend/Function.php on line 97
+[01-May-2024 07:48:09 UTC] PHP Fatal error:  Uncaught TypeError: mime_content_type(): Argument #1 ($filename) must be of type resource|string, null given in /home/maxsdepf/public_html/Backend/Function.php:97
+Stack trace:
+#0 /home/maxsdepf/public_html/Backend/Function.php(97): mime_content_type()
+#1 {main}
+  thrown in /home/maxsdepf/public_html/Backend/Function.php on line 97
+[01-May-2024 07:56:24 UTC] PHP Warning:  Undefined array key "resume" in /home/maxsdepf/public_html/Backend/Function.php on line 104
+[01-May-2024 07:56:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/maxsdepf/public_html/Backend/Function.php on line 104
+[01-May-2024 07:56:24 UTC] PHP Warning:  Undefined array key "resume" in /home/maxsdepf/public_html/Backend/Function.php on line 108
+[01-May-2024 07:56:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/maxsdepf/public_html/Backend/Function.php on line 108
+[01-May-2024 07:56:24 UTC] PHP Fatal error:  Uncaught TypeError: mime_content_type(): Argument #1 ($filename) must be of type resource|string, null given in /home/maxsdepf/public_html/Backend/Function.php:108
+Stack trace:
+#0 /home/maxsdepf/public_html/Backend/Function.php(108): mime_content_type()
+#1 {main}
+  thrown in /home/maxsdepf/public_html/Backend/Function.php on line 108
+[01-May-2024 07:56:29 UTC] PHP Warning:  Undefined array key "resume" in /home/maxsdepf/public_html/Backend/Function.php on line 104
+[01-May-2024 07:56:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/maxsdepf/public_html/Backend/Function.php on line 104
+[01-May-2024 07:56:29 UTC] PHP Warning:  Undefined array key "resume" in /home/maxsdepf/public_html/Backend/Function.php on line 108
+[01-May-2024 07:56:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/maxsdepf/public_html/Backend/Function.php on line 108
+[01-May-2024 07:56:29 UTC] PHP Fatal error:  Uncaught TypeError: mime_content_type(): Argument #1 ($filename) must be of type resource|string, null given in /home/maxsdepf/public_html/Backend/Function.php:108
+Stack trace:
+#0 /home/maxsdepf/public_html/Backend/Function.php(108): mime_content_type()
+#1 {main}
+  thrown in /home/maxsdepf/public_html/Backend/Function.php on line 108
+[01-May-2024 07:57:35 UTC] PHP Warning:  Undefined array key "resume" in /home/maxsdepf/public_html/Backend/Function.php on line 104
+[01-May-2024 07:57:35 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/maxsdepf/public_html/Backend/Function.php on line 104
+[01-May-2024 07:57:35 UTC] PHP Warning:  Undefined array key "resume" in /home/maxsdepf/public_html/Backend/Function.php on line 108
+[01-May-2024 07:57:35 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/maxsdepf/public_html/Backend/Function.php on line 108
+[01-May-2024 07:57:35 UTC] PHP Fatal error:  Uncaught TypeError: mime_content_type(): Argument #1 ($filename) must be of type resource|string, null given in /home/maxsdepf/public_html/Backend/Function.php:108
+Stack trace:
+#0 /home/maxsdepf/public_html/Backend/Function.php(108): mime_content_type()
+#1 {main}
+  thrown in /home/maxsdepf/public_html/Backend/Function.php on line 108
+[01-May-2024 07:57:37 UTC] PHP Warning:  Undefined array key "resume" in /home/maxsdepf/public_html/Backend/Function.php on line 104
+[01-May-2024 07:57:37 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/maxsdepf/public_html/Backend/Function.php on line 104
+[01-May-2024 07:57:37 UTC] PHP Warning:  Undefined array key "resume" in /home/maxsdepf/public_html/Backend/Function.php on line 108
+[01-May-2024 07:57:37 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/maxsdepf/public_html/Backend/Function.php on line 108
+[01-May-2024 07:57:37 UTC] PHP Fatal error:  Uncaught TypeError: mime_content_type(): Argument #1 ($filename) must be of type resource|string, null given in /home/maxsdepf/public_html/Backend/Function.php:108
+Stack trace:
+#0 /home/maxsdepf/public_html/Backend/Function.php(108): mime_content_type()
+#1 {main}
+  thrown in /home/maxsdepf/public_html/Backend/Function.php on line 108
+[01-May-2024 07:57:39 UTC] PHP Warning:  Undefined array key "resume" in /home/maxsdepf/public_html/Backend/Function.php on line 104
+[01-May-2024 07:57:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/maxsdepf/public_html/Backend/Function.php on line 104
+[01-May-2024 07:57:39 UTC] PHP Warning:  Undefined array key "resume" in /home/maxsdepf/public_html/Backend/Function.php on line 108
+[01-May-2024 07:57:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/maxsdepf/public_html/Backend/Function.php on line 108
+[01-May-2024 07:57:39 UTC] PHP Fatal error:  Uncaught TypeError: mime_content_type(): Argument #1 ($filename) must be of type resource|string, null given in /home/maxsdepf/public_html/Backend/Function.php:108
+Stack trace:
+#0 /home/maxsdepf/public_html/Backend/Function.php(108): mime_content_type()
+#1 {main}
+  thrown in /home/maxsdepf/public_html/Backend/Function.php on line 108
+[01-May-2024 07:57:45 UTC] PHP Warning:  Undefined array key "resume" in /home/maxsdepf/public_html/Backend/Function.php on line 104
+[01-May-2024 07:57:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/maxsdepf/public_html/Backend/Function.php on line 104
+[01-May-2024 07:57:45 UTC] PHP Warning:  Undefined array key "resume" in /home/maxsdepf/public_html/Backend/Function.php on line 108
+[01-May-2024 07:57:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/maxsdepf/public_html/Backend/Function.php on line 108
+[01-May-2024 07:57:45 UTC] PHP Fatal error:  Uncaught TypeError: mime_content_type(): Argument #1 ($filename) must be of type resource|string, null given in /home/maxsdepf/public_html/Backend/Function.php:108
+Stack trace:
+#0 /home/maxsdepf/public_html/Backend/Function.php(108): mime_content_type()
+#1 {main}
+  thrown in /home/maxsdepf/public_html/Backend/Function.php on line 108
+[01-May-2024 07:58:20 UTC] PHP Warning:  Undefined array key "resume" in /home/maxsdepf/public_html/Backend/Function.php on line 104
+[01-May-2024 07:58:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/maxsdepf/public_html/Backend/Function.php on line 104
+[01-May-2024 07:58:20 UTC] PHP Warning:  Undefined array key "resume" in /home/maxsdepf/public_html/Backend/Function.php on line 108
+[01-May-2024 07:58:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/maxsdepf/public_html/Backend/Function.php on line 108
+[01-May-2024 07:58:20 UTC] PHP Fatal error:  Uncaught TypeError: mime_content_type(): Argument #1 ($filename) must be of type resource|string, null given in /home/maxsdepf/public_html/Backend/Function.php:108
+Stack trace:
+#0 /home/maxsdepf/public_html/Backend/Function.php(108): mime_content_type()
+#1 {main}
+  thrown in /home/maxsdepf/public_html/Backend/Function.php on line 108
+[01-May-2024 07:58:22 UTC] PHP Warning:  Undefined array key "resume" in /home/maxsdepf/public_html/Backend/Function.php on line 104
+[01-May-2024 07:58:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/maxsdepf/public_html/Backend/Function.php on line 104
+[01-May-2024 07:58:22 UTC] PHP Warning:  Undefined array key "resume" in /home/maxsdepf/public_html/Backend/Function.php on line 108
+[01-May-2024 07:58:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/maxsdepf/public_html/Backend/Function.php on line 108
+[01-May-2024 07:58:22 UTC] PHP Fatal error:  Uncaught TypeError: mime_content_type(): Argument #1 ($filename) must be of type resource|string, null given in /home/maxsdepf/public_html/Backend/Function.php:108
+Stack trace:
+#0 /home/maxsdepf/public_html/Backend/Function.php(108): mime_content_type()
+#1 {main}
+  thrown in /home/maxsdepf/public_html/Backend/Function.php on line 108
+[01-May-2024 07:58:53 UTC] PHP Warning:  Undefined array key "resume" in /home/maxsdepf/public_html/Backend/Function.php on line 104
+[01-May-2024 07:58:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/maxsdepf/public_html/Backend/Function.php on line 104
+[01-May-2024 07:58:53 UTC] PHP Warning:  Undefined array key "resume" in /home/maxsdepf/public_html/Backend/Function.php on line 108
+[01-May-2024 07:58:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/maxsdepf/public_html/Backend/Function.php on line 108
+[01-May-2024 07:58:53 UTC] PHP Fatal error:  Uncaught TypeError: mime_content_type(): Argument #1 ($filename) must be of type resource|string, null given in /home/maxsdepf/public_html/Backend/Function.php:108
+Stack trace:
+#0 /home/maxsdepf/public_html/Backend/Function.php(108): mime_content_type()
+#1 {main}
+  thrown in /home/maxsdepf/public_html/Backend/Function.php on line 108
+[01-May-2024 08:03:01 UTC] PHP Warning:  Undefined array key "resume" in /home/maxsdepf/public_html/Backend/Function.php on line 100
+[01-May-2024 08:03:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/maxsdepf/public_html/Backend/Function.php on line 100
+[01-May-2024 08:03:01 UTC] PHP Warning:  Undefined array key "resume" in /home/maxsdepf/public_html/Backend/Function.php on line 101
+[01-May-2024 08:03:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/maxsdepf/public_html/Backend/Function.php on line 101
+[07-May-2024 21:34:37 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'm wrong). But, for beginners wordpress is very complex and you're probabaly s...' at line 1 in /home/maxsdepf/public_html/Backend/Function.php:40
+Stack trace:
+#0 /home/maxsdepf/public_html/Backend/Function.php(40): mysqli_query()
+#1 /home/maxsdepf/public_html/Backend/Function.php(154): quote()
+#2 {main}
+  thrown in /home/maxsdepf/public_html/Backend/Function.php on line 40
+[14-May-2024 18:04:29 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'm always watching to see what newer sites are going up and I just wanted to s...' at line 1 in /home/maxsdepf/public_html/Backend/Function.php:12
+Stack trace:
+#0 /home/maxsdepf/public_html/Backend/Function.php(12): mysqli_query()
+#1 /home/maxsdepf/public_html/Backend/Function.php(151): contact()
+#2 {main}
+  thrown in /home/maxsdepf/public_html/Backend/Function.php on line 12
+[19-May-2024 06:23:09 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'maxsdepf'@'localhost' (using password: YES) in /home/maxsdepf/public_html/Backend/asset.php:8
+Stack trace:
+#0 /home/maxsdepf/public_html/Backend/asset.php(8): mysqli_connect()
+#1 /home/maxsdepf/public_html/Backend/Function.php(6): include('/home/maxsdepf/...')
+#2 /home/maxsdepf/public_html/Backend/Function.php(151): contact()
+#3 {main}
+  thrown in /home/maxsdepf/public_html/Backend/asset.php on line 8
+[19-May-2024 06:27:06 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'maxsdepf'@'localhost' (using password: YES) in /home/maxsdepf/public_html/Backend/asset.php:8
+Stack trace:
+#0 /home/maxsdepf/public_html/Backend/asset.php(8): mysqli_connect()
+#1 /home/maxsdepf/public_html/Backend/Function.php(6): include('/home/maxsdepf/...')
+#2 /home/maxsdepf/public_html/Backend/Function.php(151): contact()
+#3 {main}
+  thrown in /home/maxsdepf/public_html/Backend/asset.php on line 8
+[19-May-2024 06:28:13 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'maxsdepf'@'localhost' (using password: YES) in /home/maxsdepf/public_html/Backend/asset.php:8
+Stack trace:
+#0 /home/maxsdepf/public_html/Backend/asset.php(8): mysqli_connect()
+#1 /home/maxsdepf/public_html/Backend/Function.php(6): include('/home/maxsdepf/...')
+#2 /home/maxsdepf/public_html/Backend/Function.php(151): contact()
+#3 {main}
+  thrown in /home/maxsdepf/public_html/Backend/asset.php on line 8
+[19-May-2024 06:28:14 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'maxsdepf'@'localhost' (using password: YES) in /home/maxsdepf/public_html/Backend/asset.php:8
+Stack trace:
+#0 /home/maxsdepf/public_html/Backend/asset.php(8): mysqli_connect()
+#1 /home/maxsdepf/public_html/Backend/Function.php(6): include('/home/maxsdepf/...')
+#2 /home/maxsdepf/public_html/Backend/Function.php(151): contact()
+#3 {main}
+  thrown in /home/maxsdepf/public_html/Backend/asset.php on line 8
+[19-May-2024 06:29:29 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'maxsdepf'@'localhost' (using password: YES) in /home/maxsdepf/public_html/Backend/asset.php:8
+Stack trace:
+#0 /home/maxsdepf/public_html/Backend/asset.php(8): mysqli_connect()
+#1 /home/maxsdepf/public_html/Backend/Function.php(6): include('/home/maxsdepf/...')
+#2 /home/maxsdepf/public_html/Backend/Function.php(151): contact()
+#3 {main}
+  thrown in /home/maxsdepf/public_html/Backend/asset.php on line 8
+[23-May-2024 16:26:49 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'maxsdepf'@'localhost' (using password: YES) in /home/maxdefault/public_html/Backend/asset.php:8
+Stack trace:
+#0 /home/maxdefault/public_html/Backend/asset.php(8): mysqli_connect()
+#1 /home/maxdefault/public_html/Backend/Function.php(6): include('/home/maxdefaul...')
+#2 /home/maxdefault/public_html/Backend/Function.php(151): contact()
+#3 {main}
+  thrown in /home/maxdefault/public_html/Backend/asset.php on line 8
+[26-May-2024 03:51:25 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'maxsdepf'@'localhost' (using password: YES) in /home/maxdefault/public_html/Backend/asset.php:8
+Stack trace:
+#0 /home/maxdefault/public_html/Backend/asset.php(8): mysqli_connect()
+#1 /home/maxdefault/public_html/Backend/Function.php(34): include('/home/maxdefaul...')
+#2 /home/maxdefault/public_html/Backend/Function.php(154): quote()
+#3 {main}
+  thrown in /home/maxdefault/public_html/Backend/asset.php on line 8
+[26-May-2024 03:51:50 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'maxsdepf'@'localhost' (using password: YES) in /home/maxdefault/public_html/Backend/asset.php:8
+Stack trace:
+#0 /home/maxdefault/public_html/Backend/asset.php(8): mysqli_connect()
+#1 /home/maxdefault/public_html/Backend/Function.php(34): include('/home/maxdefaul...')
+#2 /home/maxdefault/public_html/Backend/Function.php(154): quote()
+#3 {main}
+  thrown in /home/maxdefault/public_html/Backend/asset.php on line 8
+[26-May-2024 03:54:03 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'maxsdepf'@'localhost' (using password: YES) in /home/maxdefault/public_html/Backend/asset.php:8
+Stack trace:
+#0 /home/maxdefault/public_html/Backend/asset.php(8): mysqli_connect()
+#1 /home/maxdefault/public_html/Backend/Function.php(34): include('/home/maxdefaul...')
+#2 /home/maxdefault/public_html/Backend/Function.php(154): quote()
+#3 {main}
+  thrown in /home/maxdefault/public_html/Backend/asset.php on line 8
+[26-May-2024 03:54:30 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'maxsdepf'@'localhost' (using password: YES) in /home/maxdefault/public_html/Backend/asset.php:8
+Stack trace:
+#0 /home/maxdefault/public_html/Backend/asset.php(8): mysqli_connect()
+#1 /home/maxdefault/public_html/Backend/Function.php(6): include('/home/maxdefaul...')
+#2 /home/maxdefault/public_html/Backend/Function.php(151): contact()
+#3 {main}
+  thrown in /home/maxdefault/public_html/Backend/asset.php on line 8
+[26-May-2024 03:58:25 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'maxsdepf'@'localhost' (using password: YES) in /home/maxdefault/public_html/Backend/asset.php:8
+Stack trace:
+#0 /home/maxdefault/public_html/Backend/asset.php(8): mysqli_connect()
+#1 /home/maxdefault/public_html/Backend/Function.php(6): include('/home/maxdefaul...')
+#2 /home/maxdefault/public_html/Backend/Function.php(151): contact()
+#3 {main}
+  thrown in /home/maxdefault/public_html/Backend/asset.php on line 8
+[26-May-2024 04:00:51 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'maxsdepf'@'localhost' (using password: YES) in /home/maxdefault/public_html/Backend/asset.php:8
+Stack trace:
+#0 /home/maxdefault/public_html/Backend/asset.php(8): mysqli_connect()
+#1 /home/maxdefault/public_html/Backend/Function.php(6): include('/home/maxdefaul...')
+#2 /home/maxdefault/public_html/Backend/Function.php(151): contact()
+#3 {main}
+  thrown in /home/maxdefault/public_html/Backend/asset.php on line 8
+[26-May-2024 04:02:24 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'maxsdepf'@'localhost' (using password: YES) in /home/maxdefault/public_html/Backend/asset.php:8
+Stack trace:
+#0 /home/maxdefault/public_html/Backend/asset.php(8): mysqli_connect()
+#1 /home/maxdefault/public_html/Backend/Function.php(6): include('/home/maxdefaul...')
+#2 /home/maxdefault/public_html/Backend/Function.php(151): contact()
+#3 {main}
+  thrown in /home/maxdefault/public_html/Backend/asset.php on line 8
+[26-May-2024 04:06:53 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'maxsdepf'@'localhost' (using password: YES) in /home/maxdefault/public_html/Backend/asset.php:8
+Stack trace:
+#0 /home/maxdefault/public_html/Backend/asset.php(8): mysqli_connect()
+#1 /home/maxdefault/public_html/Backend/Function.php(6): include('/home/maxdefaul...')
+#2 /home/maxdefault/public_html/Backend/Function.php(151): contact()
+#3 {main}
+  thrown in /home/maxdefault/public_html/Backend/asset.php on line 8
+[26-May-2024 04:08:14 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'maxsdepf'@'localhost' (using password: YES) in /home/maxdefault/public_html/Backend/asset.php:8
+Stack trace:
+#0 /home/maxdefault/public_html/Backend/asset.php(8): mysqli_connect()
+#1 /home/maxdefault/public_html/Backend/Function.php(6): include('/home/maxdefaul...')
+#2 /home/maxdefault/public_html/Backend/Function.php(151): contact()
+#3 {main}
+  thrown in /home/maxdefault/public_html/Backend/asset.php on line 8
+[26-May-2024 04:13:37 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'maxsdepf'@'localhost' (using password: YES) in /home/maxdefault/public_html/Backend/asset.php:8
+Stack trace:
+#0 /home/maxdefault/public_html/Backend/asset.php(8): mysqli_connect()
+#1 /home/maxdefault/public_html/Backend/Function.php(6): include('/home/maxdefaul...')
+#2 /home/maxdefault/public_html/Backend/Function.php(151): contact()
+#3 {main}
+  thrown in /home/maxdefault/public_html/Backend/asset.php on line 8
+[26-May-2024 04:13:47 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'maxsdepf'@'localhost' (using password: YES) in /home/maxdefault/public_html/Backend/asset.php:8
+Stack trace:
+#0 /home/maxdefault/public_html/Backend/asset.php(8): mysqli_connect()
+#1 /home/maxdefault/public_html/Backend/Function.php(6): include('/home/maxdefaul...')
+#2 /home/maxdefault/public_html/Backend/Function.php(151): contact()
+#3 {main}
+  thrown in /home/maxdefault/public_html/Backend/asset.php on line 8
+[26-May-2024 04:13:49 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'maxsdepf'@'localhost' (using password: YES) in /home/maxdefault/public_html/Backend/asset.php:8
+Stack trace:
+#0 /home/maxdefault/public_html/Backend/asset.php(8): mysqli_connect()
+#1 /home/maxdefault/public_html/Backend/Function.php(6): include('/home/maxdefaul...')
+#2 /home/maxdefault/public_html/Backend/Function.php(151): contact()
+#3 {main}
+  thrown in /home/maxdefault/public_html/Backend/asset.php on line 8
+[26-May-2024 04:13:51 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'maxsdepf'@'localhost' (using password: YES) in /home/maxdefault/public_html/Backend/asset.php:8
+Stack trace:
+#0 /home/maxdefault/public_html/Backend/asset.php(8): mysqli_connect()
+#1 /home/maxdefault/public_html/Backend/Function.php(6): include('/home/maxdefaul...')
+#2 /home/maxdefault/public_html/Backend/Function.php(151): contact()
+#3 {main}
+  thrown in /home/maxdefault/public_html/Backend/asset.php on line 8
+[26-May-2024 04:13:53 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'maxsdepf'@'localhost' (using password: YES) in /home/maxdefault/public_html/Backend/asset.php:8
+Stack trace:
+#0 /home/maxdefault/public_html/Backend/asset.php(8): mysqli_connect()
+#1 /home/maxdefault/public_html/Backend/Function.php(6): include('/home/maxdefaul...')
+#2 /home/maxdefault/public_html/Backend/Function.php(151): contact()
+#3 {main}
+  thrown in /home/maxdefault/public_html/Backend/asset.php on line 8
+[26-May-2024 04:15:44 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'maxsdepf'@'localhost' (using password: YES) in /home/maxdefault/public_html/Backend/asset.php:8
+Stack trace:
+#0 /home/maxdefault/public_html/Backend/asset.php(8): mysqli_connect()
+#1 /home/maxdefault/public_html/Backend/Function.php(6): include('/home/maxdefaul...')
+#2 /home/maxdefault/public_html/Backend/Function.php(151): contact()
+#3 {main}
+  thrown in /home/maxdefault/public_html/Backend/asset.php on line 8
+[26-May-2024 04:15:56 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'maxsdepf'@'localhost' (using password: YES) in /home/maxdefault/public_html/Backend/asset.php:8
+Stack trace:
+#0 /home/maxdefault/public_html/Backend/asset.php(8): mysqli_connect()
+#1 /home/maxdefault/public_html/Backend/Function.php(6): include('/home/maxdefaul...')
+#2 /home/maxdefault/public_html/Backend/Function.php(151): contact()
+#3 {main}
+  thrown in /home/maxdefault/public_html/Backend/asset.php on line 8
+[26-May-2024 04:15:59 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'maxsdepf'@'localhost' (using password: YES) in /home/maxdefault/public_html/Backend/asset.php:8
+Stack trace:
+#0 /home/maxdefault/public_html/Backend/asset.php(8): mysqli_connect()
+#1 /home/maxdefault/public_html/Backend/Function.php(6): include('/home/maxdefaul...')
+#2 /home/maxdefault/public_html/Backend/Function.php(151): contact()
+#3 {main}
+  thrown in /home/maxdefault/public_html/Backend/asset.php on line 8
+[26-May-2024 04:16:01 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'maxsdepf'@'localhost' (using password: YES) in /home/maxdefault/public_html/Backend/asset.php:8
+Stack trace:
+#0 /home/maxdefault/public_html/Backend/asset.php(8): mysqli_connect()
+#1 /home/maxdefault/public_html/Backend/Function.php(6): include('/home/maxdefaul...')
+#2 /home/maxdefault/public_html/Backend/Function.php(151): contact()
+#3 {main}
+  thrown in /home/maxdefault/public_html/Backend/asset.php on line 8
+[26-May-2024 04:37:00 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'maxsdepf'@'localhost' (using password: YES) in /home/maxdefault/public_html/Backend/asset.php:8
+Stack trace:
+#0 /home/maxdefault/public_html/Backend/asset.php(8): mysqli_connect()
+#1 /home/maxdefault/public_html/Backend/Function.php(6): include('/home/maxdefaul...')
+#2 /home/maxdefault/public_html/Backend/Function.php(151): contact()
+#3 {main}
+  thrown in /home/maxdefault/public_html/Backend/asset.php on line 8
+[26-May-2024 04:38:50 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'maxsdepf'@'localhost' (using password: YES) in /home/maxdefault/public_html/Backend/asset.php:8
+Stack trace:
+#0 /home/maxdefault/public_html/Backend/asset.php(8): mysqli_connect()
+#1 /home/maxdefault/public_html/Backend/Function.php(6): include('/home/maxdefaul...')
+#2 /home/maxdefault/public_html/Backend/Function.php(151): contact()
+#3 {main}
+  thrown in /home/maxdefault/public_html/Backend/asset.php on line 8
+[28-May-2024 11:09:16 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'm always watching to see what newer sites are going up and I just wanted to s...' at line 1 in /home/maxdefault/public_html/Backend/Function.php:12
+Stack trace:
+#0 /home/maxdefault/public_html/Backend/Function.php(12): mysqli_query()
+#1 /home/maxdefault/public_html/Backend/Function.php(151): contact()
+#2 {main}
+  thrown in /home/maxdefault/public_html/Backend/Function.php on line 12
+[11-Jun-2024 09:50:09 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 're recognized as important. 
+We offer you to try our service for free. 
+We ...' at line 1 in /home/maxdefault/public_html/Backend/Function.php:40
+Stack trace:
+#0 /home/maxdefault/public_html/Backend/Function.php(40): mysqli_query()
+#1 /home/maxdefault/public_html/Backend/Function.php(154): quote()
+#2 {main}
+  thrown in /home/maxdefault/public_html/Backend/Function.php on line 40

@@ -1,0 +1,594 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Blog 4</title>
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <meta content="Free HTML Templates" name="keywords">
+    <meta content="Free HTML Templates" name="description">
+
+    <!-- Favicon -->
+    <link href="img/Megamax Favicon.svg" rel="icon">
+    
+    <!-- Google Web Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700;800&family=Rubik:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+    <!-- Icon Font Stylesheet -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/bootstrap-icons.css" rel="stylesheet">
+
+    <!-- Libraries Stylesheet -->
+    <link href="lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
+    <link href="lib/animate/animate.min.css" rel="stylesheet">
+
+    <!-- Customized Bootstrap Stylesheet -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Template Stylesheet -->
+    <link href="css/style.css" rel="stylesheet">
+</head>
+
+<body>
+    <!-- Spinner Start -->
+    <div id="spinner" class="show bg-white position-fixed translate-middle w-100 vh-100 top-50 start-50 d-flex align-items-center justify-content-center">
+        <div class="spinner"></div>
+    </div>
+    <!-- Spinner End -->
+
+
+    <!-- Topbar Start -->
+    <div class="container-fluid bg-dark px-5 d-none d-lg-block">
+        <div class="row gx-0">
+            <div class="col-lg-8 text-center text-lg-start mb-2 mb-lg-0">
+                <div class="d-inline-flex align-items-center" style="height: 45px;">
+                    <small class="me-3 text-light"><i class="fa fa-phone-alt me-2"></i>1800 257 1003</small>
+                    <small class="text-light"><i class="fa fa-envelope-open me-2"></i>sales@megamaxservices.com</small>
+                </div>
+            </div>
+            <div class="col-lg-4 text-center text-lg-end">
+                <div class="d-inline-flex align-items-center" style="height: 45px;">
+                    <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle me-2" href="https://www.facebook.com/megamaxservicespvtltd/"><i
+                           class="fab fa-facebook-f fw-normal"></i></a>
+                    <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle me-2" href="https://www.linkedin.com/company/megamax-services/"><i
+                           class="fab fa-linkedin-in fw-normal"></i></a>    
+                    <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle me-2" href="https://www.instagram.com/megamaxservices/"><i
+                            class="fab fa-instagram fw-normal"></i></a>
+                    <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle me-2" href="https://twitter.com/MegamaxServices/"><i
+                            class="fab fa-twitter fw-normal"></i></a>
+                    <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle" href="https://www.youtube.com/channel/UCG2zNEVBVd8SI8J8KK5mboA"><i
+                            class="fab fa-youtube fw-normal"></i></a>
+
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Topbar End -->
+
+
+    <!-- Navbar Start -->
+    <!-- Navbar & Carousel Start -->
+    <div class="container-fluid position-relative p-0">
+        <nav class="navbar navbar-expand-lg navbar-dark px-5 py-3 py-lg-0">
+            <a href="index.php" class="navbar-brand p-0">
+                <h1 class="m-0"><img src="img/logo.png" alt=""></h1>
+            </a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
+                <span class="fa fa-bars"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarCollapse">
+                <div class="navbar-nav ms-auto py-0">
+                    <a href="index.php" class="nav-item nav-link active">Home</a>
+                    <div class="nav-item dropdown">
+                        <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">About</a>
+                        <div class="dropdown-menu m-0">
+                            <a href="about.php" class="dropdown-item">About us</a>
+                            <a href="leader.php" class="dropdown-item">Leadership</a>
+                            <a href="team.php" class="dropdown-item">Our Partners</a>
+                            <a href="testimonial.php" class="dropdown-item">Awards</a>
+
+                        </div>
+                    </div>
+
+                    <div class="nav-item dropdown">
+                        <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Services</a>
+                        <div class="dropdown-menu m-0">
+                            <a href="service.php" class="dropdown-item">Offerings</a>
+                            <a href="price.php" class="dropdown-item">Success Stories</a>
+                        </div>
+                    </div>
+
+
+                    <div class="nav-item dropdown">
+                        <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Insight</a>
+                        <div class="dropdown-menu m-0">
+                            <a href="blog.html" class="dropdown-item">Blogs</a>
+                            <a href="feature.html" class="dropdown-item">News</a>
+                        </div>
+                    </div>
+                    <a href="Career.php" class="nav-item nav-link">Careers</a>
+                    <a href="contact.php" class="nav-item nav-link">Contact</a>
+                </div>
+                <butaton type="button" class="btn text-primary ms-3" data-bs-toggle="modal" data-bs-target="#searchModal"></butaton>
+                <a href="quote.php" class="btn btn-primary py-2 px-4 ms-3">Get a quote</a>
+            </div>
+        </nav>
+
+        <style>
+            .custom-bg {
+                background-image: url('./img/');
+                background-size: cover;
+                background-position: center;
+                position: relative;
+                margin-bottom: 90px;
+            }
+
+            .overlay {
+                position: absolute;
+                top: 0;
+                left: 0;
+                right: 0;
+                bottom: 0;
+                background-color: rgba(9,30,62,255);
+            }
+
+            .content {
+                position: relative;
+                z-index: 1;
+            }
+        </style>
+
+        <div class="container-fluid bg-primary py-2 bg-header custom-bg">
+            <div class="overlay"></div>
+            <div class="row py-5 content">
+                
+            </div>
+        </div>
+    </div>
+    <!-- Navbar End -->
+
+
+    <!-- Full Screen Search Start -->
+    <div class="modal fade" id="searchModal" tabindex="-1">
+        <div class="modal-dialog modal-fullscreen">
+            <div class="modal-content" style="background: rgba(9, 30, 62, .7);">
+                <div class="modal-header border-0">
+                    <button type="button" class="btn bg-white btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body d-flex align-items-center justify-content-center">
+                    <div class="input-group" style="max-width: 600px;">
+                        <input type="text" class="form-control bg-transparent border-primary p-3" placeholder="Type search keyword">
+                        <button class="btn btn-primary px-4"><i class="bi bi-search"></i></button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Full Screen Search End -->
+
+
+    <!-- Blog Start -->
+    <div class="container-fluid py-0 wow fadeInUp" data-wow-delay="0.1s">
+        <div class="container py-0">
+            <div class="row g-5">
+                <div class="col-lg-8">
+                    <!-- Blog Detail Start -->
+                    <div class="mb-5">
+                        <img class="img-fluid w-100 rounded mb-5" src="img/Blog 4.png" alt="">
+                        <h1 class="mb-4">Design Thinking</h1>
+                        
+                        <p>Unlike in the past, today, every business wants to form a meaningful relationship with its target consumers. They are building comprehensive systems which offer goods and services to reach their goals. The modern business approach is constantly seeking customer input to use in the design methodologies.</p>
+
+<p>The traditional approach prioritises more on bringing functionality and aesthetics to the products or services to boost sales. But it does not work anymore. Business organisations are feeling more under pressure to innovate their product and make it more target-centric. thinking is one of the critical concepts for businesses to understand to empower their development process.</p>
+
+<p>A product must satisfy consumer demands and target audience concerns to be profitable. However, the product may have a negative impact without unbiased idea implementation in the development process. This is where thinking can provide a different perspective to it.</p>
+
+<p>Many businesses are using thinking, a human-centred approach, to improve their existing products and services. Moreover, it is essential for web design & development in India to learn about the varied technology environments, cultural nuances, and varied user base. Read on to learn about the principles of design thinking and its need in the ever-evolving business landscape.</p>
+
+<h1>The core concept of design thinking.</h1>
+<p>As you know from above, design thinking is a human-centred approach to problem-solving methods. Furthermore, these methods prioritise the end-users to make sure that solutions are practical and resonate with their needs and experiences. IBM states that enterprise design thinking may produce a 300% increase in ROI along with a 75% increase in efficiency and 2x faster speed to market. Therefore, all majority sectors are using design thinking principles that engage the logical and creative sides of the brain. These innovative solutions should be:</p>
+
+<p>Attainable to develop functional products or services.</p>
+<p>Desirable for customers to address their issues.</p>
+<p>Sustainable to offer more usability and durability.</p>
+<p>Cross-domain for appropriate applications in the required context.</p>
+<p>The comprehensive need for design thinking in platform engineering.</p>
+<p>Improve user-friendly engagement.</p>
+<p>Contemporary businesses and technology can overwhelm operators in handling the growing complexity. Therefore, design thinking is essential to offer straightforward and natural interactions with intricate systems like TVs, websites, mobile devices, etc. The problem with cloud infrastructure services is finding gaps in scalability, security and user experience that enable focused and efficient solutions.</p>
+
+<p>Additionally, developers can better understand user issues, prioritise human interaction and make the right judgements about usability with the assistance of thinking. The process considers businesses as a person and focuses on their structures and processes. It encourages creativity, confidence and problem-solving.</p>
+
+<h1>Solve problems through a user-centric approach.</h1>
+<p>Developers can get greater clarity of user issues with a thinking approach in usability research and analysis for interface design. Then, it helps businesses to come up with innovative solutions and ideas for tackling issues in web design & development in India, prioritising human connection. Furthermore, it will mitigate business system errors in different sectors. Businesses can leverage critical thinking ability to solve complex issues with innovative product design.</p>
+
+<h1>Help businesses stay competitive in the market.</h1>
+<p>Design thinking is essential to the product development process and offers practical options for building strong products that satisfy consumers. Moreover, it commands a strong market share. It supports growth and helps businesses keep ahead of the competition while limiting resource waste. 82% of businesses think there is a direct link between innovation and financial success. It is possible to empower the innovation process with thinking.</p>
+
+<h1>The fundamental principles of Design Thinking.</h1>
+<p>Focusing on user experience and empathy.</p>
+<p>Design thinking drives innovation instead of technology by concentrating on developing solutions that address user feedback and consumer demands. Design-led businesses pay attention to customers’ behaviour. Moreover, it helps them get insight into their needs, experiences and emotions.</p>
+
+<p>The designers can use data from journey mapping, interviews, task analysis, etc., to establish customer profiles and lead personas. Moreover, companies can tailor their cloud infrastructure services solutions by understanding their consumers’ demands. It would help them fulfil certain requirements related to scalability, performance and security.</p>
+
+<h1>Collaboration.</h1>
+<p>The designer will require more refinement and clarity to identify any obstacle or unmet demands to truly empathise with consumers. Then, represent the data to stakeholders. Hence, design thinking involves collaboration between different teams, from marketing to designing. Additionally, the collaboration provides actionable instructions and guidance for the design process, facilitating innovation.</p>
+
+<h1>Working out ideas and finding solutions.</h1>
+<p>Businesses can come up with plenty of different ideas and possible solutions through a design thinking framework. Hence, ideation is a fundamental principle and a crucial step in innovation and development. Moreover, the design thinking participants should prioritise the quantity of the ideas rather than the quality of ideas, refrain from presumptions and take other possible approaches. The design thinking process involves brainstorming and mind mapping to form creative techniques and capture ideas for future consideration.</p>
+
+<h1>Experimentation and replication.</h1>
+<p>Design thinking is coming up with concepts to create prototypes and test them. Furthermore, it helps businesses to make adjustments in response to consumer feedback. The iterative processes are repeated to find errors in previous versions of the products.</p>
+
+<p>Therefore, the designer advises on internal testing of products and services in beta to obtain input from actual users before launch. From cloud infrastructure to data centre monitoring solutions, all design thinking landscapes can benefit from iterative testing. Moreover, it’s helpful to address evolving security concerns and ensure technological advancements.</p>
+
+<h1>Proactive engagement.</h1>
+<p>Prototyping and testing in real-world settings are the main goals of design thinking. It can promote consumer involvement with a proactive approach to problem-solving. The process involves customer surveys to define product style. Furthermore, it involves market research to establish product or service features. For instance, prototyping can involve building a simulated dashboard for data centre monitoring solutions to evaluate the system’s performance in practical settings.</p>
+
+<h1>Stay prepared if things don’t go right.</h1>
+<p>Another crucial principle of design thinking is the significance of staying prepared for uncertainties in the evolving world of innovation. Teams can quickly adjust without losing progress with proactive strategies with backup plans. Successful design thinking involves navigating challenges with resilience.</p>
+
+<h1>Keep the innovation concept simple.</h1>
+<p>Emotional value proposition products are designed with purposeful considerations about utility and non-functionality. It should be simpler and straightforward compared to counterparts in the market. Moreover, simple solutions help teams break down complicated issues into smaller, more manageable parts and solutions. It will enhance accessibility, usability and user experience, making the product more profitable.</p>
+
+<h1>Stay flexible.</h1>
+<p>Businesses should prioritise flexible designs which allow users to make modifications according to future requirements. However, having stiff designs might require developers to design and develop new prototypes. It can waste a lot of time and cost according to the need for future developments.</p>
+
+<h1>Final Words.</h1>
+<p>Design thinking is a creative, collaborative method of resolving challenging issues in business innovations. It entails acquiring design-oriented thinking and coming up with creative solutions to practical user-specific challenges. Service designers can work on projects, including software and hardware, using these principles. It will ensure customers have a positive experience with product and business interactions. Get in contact with Megamax Services to get an in-depth insight into the implementation of design thinking in the product development process.</p>
+                    
+                    </div>
+                    <!-- Blog Detail End -->
+    
+                    <!-- Comment List Start -->
+                    <!--div class="mb-5">
+                        <div class="section-title section-title-sm position-relative pb-3 mb-4">
+                            <h3 class="mb-0">3 Comments</h3>
+                        </div>
+                        <div class="d-flex mb-4">
+                            <img src="img/user.jpg" class="img-fluid rounded" style="width: 45px; height: 45px;">
+                            <div class="ps-3">
+                                <h6><a href="">John Doe</a> <small><i>01 Jan 2045</i></small></h6>
+                                <p>Diam amet duo labore stet elitr invidunt ea clita ipsum voluptua, tempor labore
+                                    accusam ipsum et no at. Kasd diam tempor rebum magna dolores sed eirmod</p>
+                                <button class="btn btn-sm btn-light">Reply</button>
+                            </div>
+                        </div>
+                        <div class="d-flex mb-4">
+                            <img src="img/user.jpg" class="img-fluid rounded" style="width: 45px; height: 45px;">
+                            <div class="ps-3">
+                                <h6><a href="">John Doe</a> <small><i>01 Jan 2045</i></small></h6>
+                                <p>Diam amet duo labore stet elitr invidunt ea clita ipsum voluptua, tempor labore
+                                    accusam ipsum et no at. Kasd diam tempor rebum magna dolores sed eirmod</p>
+                                <button class="btn btn-sm btn-light">Reply</button>
+                            </div>
+                        </div>
+                        <div class="d-flex ms-5 mb-4">
+                            <img src="img/user.jpg" class="img-fluid rounded" style="width: 45px; height: 45px;">
+                            <div class="ps-3">
+                                <h6><a href="">John Doe</a> <small><i>01 Jan 2045</i></small></h6>
+                                <p>Diam amet duo labore stet elitr invidunt ea clita ipsum voluptua, tempor labore
+                                    accusam ipsum et no at. Kasd diam tempor rebum magna dolores sed eirmod</p>
+                                <button class="btn btn-sm btn-light">Reply</button>
+                            </div>
+                        </div>
+                    </div-->
+                    <!-- Comment List End -->
+    
+                    <!-- Comment Form Start -->
+                    <div class="bg-light rounded p-5">
+                        <div class="section-title section-title-sm position-relative pb-3 mb-4">
+                            <h3 class="mb-0">Leave A Comment</h3>
+                        </div>
+                        <form>
+                            <div class="row g-3">
+                                <div class="col-12 col-sm-6">
+                                    <input type="text" class="form-control bg-white border-0" placeholder="Your Name" style="height: 55px;">
+                                </div>
+                                <div class="col-12 col-sm-6">
+                                    <input type="email" class="form-control bg-white border-0" placeholder="Your Email" style="height: 55px;">
+                                </div>
+                                <div class="col-12">
+                                    <input type="text" class="form-control bg-white border-0" placeholder="Website" style="height: 55px;">
+                                </div>
+                                <div class="col-12">
+                                    <textarea class="form-control bg-white border-0" rows="5" placeholder="Comment"></textarea>
+                                </div>
+                                <div class="col-12">
+                                    <button class="btn btn-primary w-100 py-3" type="submit">Leave Your Comment</button>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                    <!-- Comment Form End -->
+                </div>
+    
+                <!-- Sidebar Start -->
+                <div class="col-lg-4">
+                    <!-- Search Form Start -->
+                    <div class="mb-5 wow slideInUp" data-wow-delay="0.1s">
+                        <!--div class="input-group">
+                            <input type="text" class="form-control p-3" placeholder="Keyword">
+                            <button class="btn btn-primary px-4"><i class="bi bi-search"></i></button>
+                        </div-->
+                    </div>
+                    <!-- Search Form End -->
+    
+                    <!-- Category Start -->
+                    <!--div class="mb-5 wow slideInUp" data-wow-delay="0.1s">
+                        <div class="section-title section-title-sm position-relative pb-3 mb-4">
+                            <h3 class="mb-0">Categories</h3>
+                        </div>
+                        <div class="link-animated d-flex flex-column justify-content-start">
+                            <a class="h5 fw-semi-bold bg-light rounded py-2 px-3 mb-2" href="#"><i class="bi bi-arrow-right me-2"></i>Web Design</a>
+                            <a class="h5 fw-semi-bold bg-light rounded py-2 px-3 mb-2" href="#"><i class="bi bi-arrow-right me-2"></i>Web Development</a>
+                            <a class="h5 fw-semi-bold bg-light rounded py-2 px-3 mb-2" href="#"><i class="bi bi-arrow-right me-2"></i>Web Development</a>
+                            <a class="h5 fw-semi-bold bg-light rounded py-2 px-3 mb-2" href="#"><i class="bi bi-arrow-right me-2"></i>Keyword Research</a>
+                            <a class="h5 fw-semi-bold bg-light rounded py-2 px-3 mb-2" href="#"><i class="bi bi-arrow-right me-2"></i>Email Marketing</a>
+                        </div>
+                    </div-->
+                    <!-- Category End -->
+    
+                    <!-- Recent Post Start -->
+                    <div class="mb-5 wow slideInUp" data-wow-delay="0.1s">
+                        <div class="section-title section-title-sm position-relative pb-3 mb-4">
+                            <h3 class="mb-0">Recent Post</h3>
+                        </div>
+                        <div class="d-flex rounded overflow-hidden mb-3">
+                            <img class="img-fluid" src="img/Blog 1.png" style="width: 100px; height: 100px; object-fit: cover;" alt="">
+                            <a href="blog 1.html" class="h5 fw-semi-bold d-flex align-items-center bg-light px-3 mb-0">Gen AI’s Impact on the Future of Data Engineering in Digital Product Innovation
+                            </a>
+                        </div>
+                        <div class="d-flex rounded overflow-hidden mb-3">
+                            <img class="img-fluid" src="img/Blog 2.png" style="width: 100px; height: 100px; object-fit: cover;" alt="">
+                            <a href="blog 2.html" class="h5 fw-semi-bold d-flex align-items-center bg-light px-3 mb-0">Decoding Infrastructure as Code: Unleashing its Potential
+                            </a>
+                        </div>
+                        <div class="d-flex rounded overflow-hidden mb-3">
+                            <img class="img-fluid" src="img/Blog 3.png" style="width: 100px; height: 100px; object-fit: cover;" alt="">
+                            <a href="blog 3.html" class="h5 fw-semi-bold d-flex align-items-center bg-light px-3 mb-0">Unveiling Cloud-Native Security: Advantages and Practical Applications
+                            </a>
+                        </div>
+                        <div class="d-flex rounded overflow-hidden mb-3">
+                            <img class="img-fluid" src="img/Blog 4.png" style="width: 100px; height: 100px; object-fit: cover;" alt="">
+                            <a href="blog 4.html" class="h5 fw-semi-bold d-flex align-items-center bg-light px-3 mb-0">Design Thinking’s Fundamental Principles
+                            </a>
+                        </div>
+                        
+                    </div>
+                    <!-- Recent Post End -->
+    
+                    <!-- Image Start -->
+                    <!--div class="mb-5 wow slideInUp" data-wow-delay="0.1s">
+                        <img src="img/Blog 1.png" alt="" class="img-fluid rounded">
+                    </div-->
+                    <!-- Image End -->
+    
+                    <!-- Tags Start -->
+                    <!--div class="mb-5 wow slideInUp" data-wow-delay="0.1s">
+                        <div class="section-title section-title-sm position-relative pb-3 mb-4">
+                            <h3 class="mb-0">Tag Cloud</h3>
+                        </div>
+                        <div class="d-flex flex-wrap m-n1">
+                            <a href="" class="btn btn-light m-1">Design</a>
+                            <a href="" class="btn btn-light m-1">Development</a>
+                            <a href="" class="btn btn-light m-1">Marketing</a>
+                            <a href="" class="btn btn-light m-1">SEO</a>
+                            <a href="" class="btn btn-light m-1">Writing</a>
+                            <a href="" class="btn btn-light m-1">Consulting</a>
+                            <a href="" class="btn btn-light m-1">Design</a>
+                            <a href="" class="btn btn-light m-1">Development</a>
+                            <a href="" class="btn btn-light m-1">Marketing</a>
+                            <a href="" class="btn btn-light m-1">SEO</a>
+                            <a href="" class="btn btn-light m-1">Writing</a>
+                            <a href="" class="btn btn-light m-1">Consulting</a>
+                        </div>
+                    </div-->
+                    <!-- Tags End -->
+    
+                    <!-- Plain Text Start -->
+                    <!--div class="wow slideInUp" data-wow-delay="0.1s">
+                        <div class="section-title section-title-sm position-relative pb-3 mb-4">
+                            <h3 class="mb-0">Plain Text</h3>
+                        </div>
+                        <div class="bg-light text-center" style="padding: 30px;">
+                            <p>Vero sea et accusam justo dolor accusam lorem consetetur, dolores sit amet sit dolor clita kasd justo, diam accusam no sea ut tempor magna takimata, amet sit et diam dolor ipsum amet diam</p>
+                            <a href="" class="btn btn-primary py-2 px-4">Read More</a>
+                        </div>
+                    </div-->
+                    <!-- Plain Text End -->
+                </div>
+                <!-- Sidebar End -->
+            </div>
+        </div>
+    </div>
+    <!-- Blog End -->
+
+
+    <!-- Vendor Start -->
+    <!--div class="container-fluid py-5 wow fadeInUp" data-wow-delay="0.1s">
+        <div class="container py-5 mb-5">
+            <div class="bg-white">
+                <div class="owl-carousel vendor-carousel">
+                    <img src="img/Partner 1.png" alt="">
+                    <img src="img/Partner 2.png" alt="">
+                    <img src="img/Partner 3.png" alt="">
+                    <img src="img/Partner 4.png" alt="">
+                    <img src="img/Partner 5.png" alt="">
+                    <img src="img/Partner 6.png" alt="">
+                    <img src="img/Partner 7.png" alt="">
+                    <img src="img/Partner 8.png" alt="">
+                    <img src="img/Partner 9.png" alt="">
+                    <img src="img/Partner 10.png" alt="">
+                    <img src="img/Partner 11.png" alt="">
+                    <img src="img/Partner 12.png" alt="">
+                    <img src="img/Partner 13.png" alt="">
+                    <img src="img/Partner 14.png" alt="">
+                    <img src="img/Partner 16.png" alt="">
+                    <img src="img/Partner 15.png" alt="">
+                    <img src="img/Partner 17.png" alt="">
+                    <img src="img/Partner 18.png" alt="">
+                    <img src="img/Partner 19.png" alt="">
+                    <img src="img/Partner 20.png" alt="">
+                    <img src="img/Partner 21.png" alt="">
+                    <img src="img/Partner 22.png" alt="">
+                    <img src="img/Partner 23.png" alt="">
+                    <img src="img/Partner 24.png" alt="">
+                    <img src="img/Partner 25.png" alt="">
+                    <img src="img/Partner 26.png" alt="">
+                    <img src="img/Partner 27.png" alt="">
+                    <img src="img/Partner 28.png" alt="">
+                    <img src="img/Partner 29.png" alt="">
+                    <img src="img/Partner 30.png" alt="">
+                    <img src="img/Partner 31.png" alt="">
+                    <img src="img/Partner 32.png" alt="">
+                    <img src="img/Partner 33.png" alt="">
+                    
+                    
+                </div>
+            </div>
+        </div>
+    </div-->
+    <!-- Vendor End -->
+    
+
+  <!-- Footer Start -->
+  <div class="container-fluid bg-dark text-light mt-5 wow fadeInUp" data-wow-delay="0.1s">
+    <div class="container">
+        <div class="row gx-5">
+            <div class="col-lg-4 col-md-6 footer-about">
+                <div
+                    class="d-flex flex-column align-items-center justify-content-center text-center h-100 bg-primary p-4">
+                    <a href="index.html" class="navbar-brand">
+                        <h1 class="m-0 text-white"><img style="width:250px;" src="img/footerlogo.png" alt=""></h1>
+                    </a>
+                    <p class="mt-3 mb-4">Megamax is a next-generation
+                        global IT Managed Services and
+                        technology company.</p>
+                    <form action="">
+                        <div class="input-group">
+                            <input type="text" class="form-control border-white p-3" placeholder="Your Email">
+                            <button class="btn btn-dark">Sign Up</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+            <div class="col-lg-8 col-md-6">
+                <div class="row gx-5">
+                    <div class="col-lg-4 col-md-12 pt-5 mb-5">
+                        <div class="section-title section-title-sm position-relative pb-3 mb-4">
+                            <h3 class="text-light mb-0">Get In Touch</h3>
+                        </div>
+                        <div class="d-flex mb-2">
+                            <i class="bi bi-geo-alt text-primary me-2"></i>
+                            <p class="mb-0">Megamax House,
+                                B-40, Sector 57, Noida (Uttar Pradesh), INDIA 201301</p>
+                        </div>
+                        <div class="d-flex mb-2">
+                            <i class="bi bi-envelope-open text-primary me-2"></i>
+                            <a class="text-light" href="//mail.google.com/mail/u/0/?view=cm&amp;fs=1&amp;tf=1&amp;source=mailto&amp;to=sales@megamaxservices.com" target="_blank"><i></i>sales@megamaxservices.com</a>
+                        </div>
+                        <div class="d-flex mb-2">
+                            <i class="bi bi-telephone text-primary me-2"></i>
+                            <p class="mb-0">1800 257 1003</p>
+                        </div>
+                        
+
+                        <div class="col-lg-4 text-center text-lg-end">
+                            <div class="d-inline-flex align-items-center" style="height: 45px;">
+                                <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle me-2" href="https://www.facebook.com/megamaxservicespvtltd/"><i
+                                       class="fab fa-facebook-f fw-normal"></i></a>
+                                <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle me-2" href="https://www.linkedin.com/company/megamax-services/"><i
+                                       class="fab fa-linkedin-in fw-normal"></i></a>    
+                                <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle me-2" href="https://www.instagram.com/megamaxservices/"><i
+                                        class="fab fa-instagram fw-normal"></i></a>
+                                <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle me-2" href="https://twitter.com/MegamaxServices/"><i
+                                        class="fab fa-twitter fw-normal"></i></a>
+                                <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle" href="https://www.youtube.com/channel/UCG2zNEVBVd8SI8J8KK5mboA"><i
+                                        class="fab fa-youtube fw-normal"></i></a>
+            
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-12 pt-0 pt-lg-5 mb-5">
+                        <div class="section-title section-title-sm position-relative pb-3 mb-4">
+                            <h3 class="text-light mb-0">Quick Links</h3>
+                        </div>
+                        <div class="link-animated d-flex flex-column justify-content-start">
+                            <a class="text-light mb-2" href="index.php"><i
+                                    class="bi bi-arrow-right text-primary me-2"></i>Home</a>
+                            <a class="text-light mb-2" href="about.php"><i
+                                    class="bi bi-arrow-right text-primary me-2"></i>About</a>
+                            <a class="text-light mb-2" href="service.php"><i
+                                    class="bi bi-arrow-right text-primary me-2"></i>Services</a>
+                            <a class="text-light mb-2" href="blog.html"><i
+                                    class="bi bi-arrow-right text-primary me-2"></i>Insight</a>
+                            <a class="text-light mb-2" href="Career.php"><i
+                                    class="bi bi-arrow-right text-primary me-2"></i>Careers</a>
+                            <a class="text-light" href="contact.php"><i
+                                    class="bi bi-arrow-right text-primary me-2"></i>Contact </a>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-12 pt-0 pt-lg-5 mb-5">
+                        <div class="section-title section-title-sm position-relative pb-3 mb-4">
+                            <h3 class="text-light mb-0">Offerings</h3>
+                        </div>
+                        <div class="link-animated d-flex flex-column justify-content-start">
+                            <a class="text-light mb-2" href="Infra Managed Services.html"><i
+                                    class="bi bi-arrow-right text-primary me-2"></i>Infra Managed Services</a>
+                            <a class="text-light mb-2" href="App Modernization.html"><i
+                                    class="bi bi-arrow-right text-primary me-2"></i>App Modernization</a>
+                            <a class="text-light mb-2" href="cloud.html"><i
+                                    class="bi bi-arrow-right text-primary me-2"></i>Cloud Services</a>
+                            <a class="text-light mb-2" href="devOps.html"><i
+                                    class="bi bi-arrow-right text-primary me-2"></i>DevOps</a>
+                            <a class="text-light mb-2" href="cybersecurity.html"><i
+                                    class="bi bi-arrow-right text-primary me-2"></i>Cyber Security</a>
+                            <a class="text-light" href="AppOps.html"><i
+                                    class="bi bi-arrow-right text-primary me-2"></i>AppOps</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="container-fluid text-white" style="background: #061429;">
+    <div class="container text-center">
+        <div class="row justify-content-end">
+            <div class="col-lg-8 col-md-6">
+                <div class="d-flex align-items-center justify-content-center" style="height: 75px;">
+                    <p class="mb-0">&copy; <a class="text-white border-bottom" href="#"> Megamax Services Pvt. Ltd</a>. All
+                        Rights Reserved.
+
+                       
+                        <!-- Designed by <a class="text-white border-bottom"#">Anonymous</a> -->
+                    </p>
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Footer End -->
+
+
+<!-- Back to Top -->
+<a href="index.html" class="btn btn-lg btn-primary btn-lg-square rounded back-to-top"><i class="bi bi-arrow-up"></i></a>
+
+
+<!-- JavaScript Libraries -->
+<script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js"></script>
+<script src="lib/wow/wow.min.js"></script>
+<script src="lib/easing/easing.min.js"></script>
+<script src="lib/waypoints/waypoints.min.js"></script>
+<script src="lib/counterup/counterup.min.js"></script>
+<script src="lib/owlcarousel/owl.carousel.min.js"></script>
+
+<!-- Template Javascript -->
+<script src="js/main.js"></script>
+</body>
+
+</html>

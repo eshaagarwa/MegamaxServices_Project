@@ -1,0 +1,250 @@
+[01-May-2024 10:26:24 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'username' in 'where clause' in /home/maxsdepf/public_html/Admin/src/login.php:87
+Stack trace:
+#0 /home/maxsdepf/public_html/Admin/src/login.php(87): mysqli_query()
+#1 {main}
+  thrown in /home/maxsdepf/public_html/Admin/src/login.php on line 87
+[01-May-2024 10:27:04 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'username' in 'where clause' in /home/maxsdepf/public_html/Admin/src/login.php:87
+Stack trace:
+#0 /home/maxsdepf/public_html/Admin/src/login.php(87): mysqli_query()
+#1 {main}
+  thrown in /home/maxsdepf/public_html/Admin/src/login.php on line 87
+[01-May-2024 10:27:17 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'username' in 'where clause' in /home/maxsdepf/public_html/Admin/src/login.php:87
+Stack trace:
+#0 /home/maxsdepf/public_html/Admin/src/login.php(87): mysqli_query()
+#1 {main}
+  thrown in /home/maxsdepf/public_html/Admin/src/login.php on line 87
+[01-May-2024 10:27:18 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'username' in 'where clause' in /home/maxsdepf/public_html/Admin/src/login.php:87
+Stack trace:
+#0 /home/maxsdepf/public_html/Admin/src/login.php(87): mysqli_query()
+#1 {main}
+  thrown in /home/maxsdepf/public_html/Admin/src/login.php on line 87
+[01-May-2024 10:27:18 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'username' in 'where clause' in /home/maxsdepf/public_html/Admin/src/login.php:87
+Stack trace:
+#0 /home/maxsdepf/public_html/Admin/src/login.php(87): mysqli_query()
+#1 {main}
+  thrown in /home/maxsdepf/public_html/Admin/src/login.php on line 87
+[01-May-2024 10:27:19 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'username' in 'where clause' in /home/maxsdepf/public_html/Admin/src/login.php:87
+Stack trace:
+#0 /home/maxsdepf/public_html/Admin/src/login.php(87): mysqli_query()
+#1 {main}
+  thrown in /home/maxsdepf/public_html/Admin/src/login.php on line 87
+[01-May-2024 10:27:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'username' in 'where clause' in /home/maxsdepf/public_html/Admin/src/login.php:87
+Stack trace:
+#0 /home/maxsdepf/public_html/Admin/src/login.php(87): mysqli_query()
+#1 {main}
+  thrown in /home/maxsdepf/public_html/Admin/src/login.php on line 87
+[01-May-2024 10:27:37 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'username' in 'where clause' in /home/maxsdepf/public_html/Admin/src/login.php:87
+Stack trace:
+#0 /home/maxsdepf/public_html/Admin/src/login.php(87): mysqli_query()
+#1 {main}
+  thrown in /home/maxsdepf/public_html/Admin/src/login.php on line 87
+[18-May-2024 16:05:46 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'maxsdepf'@'localhost' (using password: YES) in /home/maxsdepf/public_html/Backend/asset.php:8
+Stack trace:
+#0 /home/maxsdepf/public_html/Backend/asset.php(8): mysqli_connect()
+#1 /home/maxsdepf/public_html/Admin/src/login.php(78): include('/home/maxsdepf/...')
+#2 {main}
+  thrown in /home/maxsdepf/public_html/Backend/asset.php on line 8
+[18-May-2024 16:05:57 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'maxsdepf'@'localhost' (using password: YES) in /home/maxsdepf/public_html/Backend/asset.php:8
+Stack trace:
+#0 /home/maxsdepf/public_html/Backend/asset.php(8): mysqli_connect()
+#1 /home/maxsdepf/public_html/Admin/src/login.php(78): include('/home/maxsdepf/...')
+#2 {main}
+  thrown in /home/maxsdepf/public_html/Backend/asset.php on line 8
+[18-May-2024 16:05:59 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'maxsdepf'@'localhost' (using password: YES) in /home/maxsdepf/public_html/Backend/asset.php:8
+Stack trace:
+#0 /home/maxsdepf/public_html/Backend/asset.php(8): mysqli_connect()
+#1 /home/maxsdepf/public_html/Admin/src/login.php(78): include('/home/maxsdepf/...')
+#2 {main}
+  thrown in /home/maxsdepf/public_html/Backend/asset.php on line 8
+[18-May-2024 16:06:00 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'maxsdepf'@'localhost' (using password: YES) in /home/maxsdepf/public_html/Backend/asset.php:8
+Stack trace:
+#0 /home/maxsdepf/public_html/Backend/asset.php(8): mysqli_connect()
+#1 /home/maxsdepf/public_html/Admin/src/login.php(78): include('/home/maxsdepf/...')
+#2 {main}
+  thrown in /home/maxsdepf/public_html/Backend/asset.php on line 8
+[18-May-2024 16:06:00 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'maxsdepf'@'localhost' (using password: YES) in /home/maxsdepf/public_html/Backend/asset.php:8
+Stack trace:
+#0 /home/maxsdepf/public_html/Backend/asset.php(8): mysqli_connect()
+#1 /home/maxsdepf/public_html/Admin/src/login.php(78): include('/home/maxsdepf/...')
+#2 {main}
+  thrown in /home/maxsdepf/public_html/Backend/asset.php on line 8
+[18-May-2024 16:06:01 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'maxsdepf'@'localhost' (using password: YES) in /home/maxsdepf/public_html/Backend/asset.php:8
+Stack trace:
+#0 /home/maxsdepf/public_html/Backend/asset.php(8): mysqli_connect()
+#1 /home/maxsdepf/public_html/Admin/src/login.php(78): include('/home/maxsdepf/...')
+#2 {main}
+  thrown in /home/maxsdepf/public_html/Backend/asset.php on line 8
+[18-May-2024 16:29:54 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'maxsdepf'@'localhost' (using password: YES) in /home/maxsdepf/public_html/Backend/asset.php:8
+Stack trace:
+#0 /home/maxsdepf/public_html/Backend/asset.php(8): mysqli_connect()
+#1 /home/maxsdepf/public_html/Admin/src/login.php(78): include('/home/maxsdepf/...')
+#2 {main}
+  thrown in /home/maxsdepf/public_html/Backend/asset.php on line 8
+[18-May-2024 16:31:01 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'maxsdepf'@'localhost' (using password: YES) in /home/maxsdepf/public_html/Backend/asset.php:8
+Stack trace:
+#0 /home/maxsdepf/public_html/Backend/asset.php(8): mysqli_connect()
+#1 /home/maxsdepf/public_html/Admin/src/login.php(78): include('/home/maxsdepf/...')
+#2 {main}
+  thrown in /home/maxsdepf/public_html/Backend/asset.php on line 8
+[18-May-2024 16:31:02 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'maxsdepf'@'localhost' (using password: YES) in /home/maxsdepf/public_html/Backend/asset.php:8
+Stack trace:
+#0 /home/maxsdepf/public_html/Backend/asset.php(8): mysqli_connect()
+#1 /home/maxsdepf/public_html/Admin/src/login.php(78): include('/home/maxsdepf/...')
+#2 {main}
+  thrown in /home/maxsdepf/public_html/Backend/asset.php on line 8
+[18-May-2024 16:31:02 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'maxsdepf'@'localhost' (using password: YES) in /home/maxsdepf/public_html/Backend/asset.php:8
+Stack trace:
+#0 /home/maxsdepf/public_html/Backend/asset.php(8): mysqli_connect()
+#1 /home/maxsdepf/public_html/Admin/src/login.php(78): include('/home/maxsdepf/...')
+#2 {main}
+  thrown in /home/maxsdepf/public_html/Backend/asset.php on line 8
+[18-May-2024 17:03:12 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'maxsdepf'@'localhost' (using password: YES) in /home/maxsdepf/public_html/Backend/asset.php:8
+Stack trace:
+#0 /home/maxsdepf/public_html/Backend/asset.php(8): mysqli_connect()
+#1 /home/maxsdepf/public_html/Admin/src/login.php(78): include('/home/maxsdepf/...')
+#2 {main}
+  thrown in /home/maxsdepf/public_html/Backend/asset.php on line 8
+[18-May-2024 17:03:17 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'maxsdepf'@'localhost' (using password: YES) in /home/maxsdepf/public_html/Backend/asset.php:8
+Stack trace:
+#0 /home/maxsdepf/public_html/Backend/asset.php(8): mysqli_connect()
+#1 /home/maxsdepf/public_html/Admin/src/login.php(78): include('/home/maxsdepf/...')
+#2 {main}
+  thrown in /home/maxsdepf/public_html/Backend/asset.php on line 8
+[18-May-2024 17:04:00 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'maxsdepf'@'localhost' (using password: YES) in /home/maxsdepf/public_html/Backend/asset.php:8
+Stack trace:
+#0 /home/maxsdepf/public_html/Backend/asset.php(8): mysqli_connect()
+#1 /home/maxsdepf/public_html/Admin/src/login.php(78): include('/home/maxsdepf/...')
+#2 {main}
+  thrown in /home/maxsdepf/public_html/Backend/asset.php on line 8
+[18-May-2024 17:04:13 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'maxsdepf'@'localhost' (using password: YES) in /home/maxsdepf/public_html/Backend/asset.php:8
+Stack trace:
+#0 /home/maxsdepf/public_html/Backend/asset.php(8): mysqli_connect()
+#1 /home/maxsdepf/public_html/Admin/src/login.php(78): include('/home/maxsdepf/...')
+#2 {main}
+  thrown in /home/maxsdepf/public_html/Backend/asset.php on line 8
+[18-May-2024 17:05:47 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'maxsdepf'@'localhost' (using password: YES) in /home/maxsdepf/public_html/Backend/asset.php:8
+Stack trace:
+#0 /home/maxsdepf/public_html/Backend/asset.php(8): mysqli_connect()
+#1 /home/maxsdepf/public_html/Admin/src/login.php(78): include('/home/maxsdepf/...')
+#2 {main}
+  thrown in /home/maxsdepf/public_html/Backend/asset.php on line 8
+[19-May-2024 00:53:04 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'maxsdepf'@'localhost' (using password: YES) in /home/maxsdepf/public_html/Backend/asset.php:8
+Stack trace:
+#0 /home/maxsdepf/public_html/Backend/asset.php(8): mysqli_connect()
+#1 /home/maxsdepf/public_html/Admin/src/login.php(78): include('/home/maxsdepf/...')
+#2 {main}
+  thrown in /home/maxsdepf/public_html/Backend/asset.php on line 8
+[19-May-2024 01:05:22 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'maxsdepf'@'localhost' (using password: YES) in /home/maxsdepf/public_html/Backend/asset.php:8
+Stack trace:
+#0 /home/maxsdepf/public_html/Backend/asset.php(8): mysqli_connect()
+#1 /home/maxsdepf/public_html/Admin/src/login.php(78): include('/home/maxsdepf/...')
+#2 {main}
+  thrown in /home/maxsdepf/public_html/Backend/asset.php on line 8
+[19-May-2024 01:12:53 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'maxsdepf'@'localhost' (using password: YES) in /home/maxsdepf/public_html/Backend/asset.php:8
+Stack trace:
+#0 /home/maxsdepf/public_html/Backend/asset.php(8): mysqli_connect()
+#1 /home/maxsdepf/public_html/Admin/src/login.php(78): include('/home/maxsdepf/...')
+#2 {main}
+  thrown in /home/maxsdepf/public_html/Backend/asset.php on line 8
+[19-May-2024 06:16:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'maxsdepf'@'localhost' (using password: YES) in /home/maxsdepf/public_html/Backend/asset.php:8
+Stack trace:
+#0 /home/maxsdepf/public_html/Backend/asset.php(8): mysqli_connect()
+#1 /home/maxsdepf/public_html/Admin/src/login.php(78): include('/home/maxsdepf/...')
+#2 {main}
+  thrown in /home/maxsdepf/public_html/Backend/asset.php on line 8
+[19-May-2024 06:16:26 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'maxsdepf'@'localhost' (using password: YES) in /home/maxsdepf/public_html/Backend/asset.php:8
+Stack trace:
+#0 /home/maxsdepf/public_html/Backend/asset.php(8): mysqli_connect()
+#1 /home/maxsdepf/public_html/Admin/src/login.php(78): include('/home/maxsdepf/...')
+#2 {main}
+  thrown in /home/maxsdepf/public_html/Backend/asset.php on line 8
+[19-May-2024 06:16:34 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'maxsdepf'@'localhost' (using password: YES) in /home/maxsdepf/public_html/Backend/asset.php:8
+Stack trace:
+#0 /home/maxsdepf/public_html/Backend/asset.php(8): mysqli_connect()
+#1 /home/maxsdepf/public_html/Admin/src/login.php(78): include('/home/maxsdepf/...')
+#2 {main}
+  thrown in /home/maxsdepf/public_html/Backend/asset.php on line 8
+[19-May-2024 06:16:46 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'maxsdepf'@'localhost' (using password: YES) in /home/maxsdepf/public_html/Backend/asset.php:8
+Stack trace:
+#0 /home/maxsdepf/public_html/Backend/asset.php(8): mysqli_connect()
+#1 /home/maxsdepf/public_html/Admin/src/login.php(78): include('/home/maxsdepf/...')
+#2 {main}
+  thrown in /home/maxsdepf/public_html/Backend/asset.php on line 8
+[19-May-2024 06:16:48 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'maxsdepf'@'localhost' (using password: YES) in /home/maxsdepf/public_html/Backend/asset.php:8
+Stack trace:
+#0 /home/maxsdepf/public_html/Backend/asset.php(8): mysqli_connect()
+#1 /home/maxsdepf/public_html/Admin/src/login.php(78): include('/home/maxsdepf/...')
+#2 {main}
+  thrown in /home/maxsdepf/public_html/Backend/asset.php on line 8
+[19-May-2024 06:17:35 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'maxsdepf'@'localhost' (using password: YES) in /home/maxsdepf/public_html/Backend/asset.php:8
+Stack trace:
+#0 /home/maxsdepf/public_html/Backend/asset.php(8): mysqli_connect()
+#1 /home/maxsdepf/public_html/Admin/src/login.php(78): include('/home/maxsdepf/...')
+#2 {main}
+  thrown in /home/maxsdepf/public_html/Backend/asset.php on line 8
+[20-May-2024 10:19:36 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'maxsdepf'@'localhost' (using password: YES) in /home/maxdefault/public_html/Backend/asset.php:8
+Stack trace:
+#0 /home/maxdefault/public_html/Backend/asset.php(8): mysqli_connect()
+#1 /home/maxdefault/public_html/Admin/src/login.php(78): include('/home/maxdefaul...')
+#2 {main}
+  thrown in /home/maxdefault/public_html/Backend/asset.php on line 8
+[20-May-2024 10:19:40 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'maxsdepf'@'localhost' (using password: YES) in /home/maxdefault/public_html/Backend/asset.php:8
+Stack trace:
+#0 /home/maxdefault/public_html/Backend/asset.php(8): mysqli_connect()
+#1 /home/maxdefault/public_html/Admin/src/login.php(78): include('/home/maxdefaul...')
+#2 {main}
+  thrown in /home/maxdefault/public_html/Backend/asset.php on line 8
+[20-May-2024 10:19:43 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'maxsdepf'@'localhost' (using password: YES) in /home/maxdefault/public_html/Backend/asset.php:8
+Stack trace:
+#0 /home/maxdefault/public_html/Backend/asset.php(8): mysqli_connect()
+#1 /home/maxdefault/public_html/Admin/src/login.php(78): include('/home/maxdefaul...')
+#2 {main}
+  thrown in /home/maxdefault/public_html/Backend/asset.php on line 8
+[20-May-2024 11:22:44 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'maxsdepf'@'localhost' (using password: YES) in /home/maxdefault/public_html/Backend/asset.php:8
+Stack trace:
+#0 /home/maxdefault/public_html/Backend/asset.php(8): mysqli_connect()
+#1 /home/maxdefault/public_html/Admin/src/login.php(78): include('/home/maxdefaul...')
+#2 {main}
+  thrown in /home/maxdefault/public_html/Backend/asset.php on line 8
+[20-May-2024 11:22:44 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'maxsdepf'@'localhost' (using password: YES) in /home/maxdefault/public_html/Backend/asset.php:8
+Stack trace:
+#0 /home/maxdefault/public_html/Backend/asset.php(8): mysqli_connect()
+#1 /home/maxdefault/public_html/Admin/src/login.php(78): include('/home/maxdefaul...')
+#2 {main}
+  thrown in /home/maxdefault/public_html/Backend/asset.php on line 8
+[20-May-2024 14:11:19 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'maxsdepf'@'localhost' (using password: YES) in /home/maxdefault/public_html/Backend/asset.php:8
+Stack trace:
+#0 /home/maxdefault/public_html/Backend/asset.php(8): mysqli_connect()
+#1 /home/maxdefault/public_html/Admin/src/login.php(78): include('/home/maxdefaul...')
+#2 {main}
+  thrown in /home/maxdefault/public_html/Backend/asset.php on line 8
+[20-May-2024 14:14:16 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'maxsdepf'@'localhost' (using password: YES) in /home/maxdefault/public_html/Backend/asset.php:8
+Stack trace:
+#0 /home/maxdefault/public_html/Backend/asset.php(8): mysqli_connect()
+#1 /home/maxdefault/public_html/Admin/src/login.php(78): include('/home/maxdefaul...')
+#2 {main}
+  thrown in /home/maxdefault/public_html/Backend/asset.php on line 8
+[20-May-2024 14:41:39 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'maxsdepf'@'localhost' (using password: YES) in /home/maxdefault/public_html/Backend/asset.php:8
+Stack trace:
+#0 /home/maxdefault/public_html/Backend/asset.php(8): mysqli_connect()
+#1 /home/maxdefault/public_html/Admin/src/login.php(78): include('/home/maxdefaul...')
+#2 {main}
+  thrown in /home/maxdefault/public_html/Backend/asset.php on line 8
+[20-May-2024 14:51:08 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'maxsdepf'@'localhost' (using password: YES) in /home/maxdefault/public_html/Backend/asset.php:8
+Stack trace:
+#0 /home/maxdefault/public_html/Backend/asset.php(8): mysqli_connect()
+#1 /home/maxdefault/public_html/Admin/src/login.php(78): include('/home/maxdefaul...')
+#2 {main}
+  thrown in /home/maxdefault/public_html/Backend/asset.php on line 8
+[22-May-2024 15:11:49 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'maxsdepf'@'localhost' (using password: YES) in /home/maxdefault/public_html/Backend/asset.php:8
+Stack trace:
+#0 /home/maxdefault/public_html/Backend/asset.php(8): mysqli_connect()
+#1 /home/maxdefault/public_html/Admin/src/login.php(78): include('/home/maxdefaul...')
+#2 {main}
+  thrown in /home/maxdefault/public_html/Backend/asset.php on line 8
+[22-May-2024 15:11:49 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'maxsdepf'@'localhost' (using password: YES) in /home/maxdefault/public_html/Backend/asset.php:8
+Stack trace:
+#0 /home/maxdefault/public_html/Backend/asset.php(8): mysqli_connect()
+#1 /home/maxdefault/public_html/Admin/src/login.php(78): include('/home/maxdefaul...')
+#2 {main}
+  thrown in /home/maxdefault/public_html/Backend/asset.php on line 8
