@@ -635,7 +635,628 @@
         </div>
     </div>
     < Vendor End -->
+    
+    
+    <!-- Contact Start -->
+    <!--div class="container-fluid py-5 wow fadeInUp" data-wow-delay="0.1s">
+        <div class="container py-5">
+            <div class="section-title text-center position-relative pb-3 mb-5 mx-auto" style="max-width: 600px;">
+                <h1 class="fw-bold text-primary text-uppercase">Events & Celebrations</h1>
+                
+            </div>
+        </div>
+    </div-->
+    <!-- Contact End -->
+    
+    
+    
+    <!-- Testimonial Start -->
+<div class="container-fluid wow fadeInUp" data-wow-delay="0.1s">
+    <div class="container py-5">
+        <div class="section-title text-center position-relative pb-3 mb-4 mx-auto" style="max-width: 600px;">
+            <h1 class="fw-bold text-primary text-uppercase">Events & Celebrations</h1>
+            
+        </div>
+        <div class="owl-carousel testimonial-carousel wow fadeInUp" data-wow-delay="0.6s">
+            <div class="testimonial-item bg-light my-4" style="height: 300px;">
+                <img class="img-fluid w-100 h-100 rounded" src="img/t1.jpg" style="object-fit: cover;">
+            </div>
+            <div class="testimonial-item bg-light my-4" style="height: 300px;">
+                <img class="img-fluid w-100 h-100 rounded" src="img/t2.jpg" style="object-fit: cover;">
+            </div>
+            <div class="testimonial-item bg-light my-4" style="height: 300px;">
+                <img class="img-fluid w-100 h-100 rounded" src="img/t3.jpg" style="object-fit: cover;">
+            </div>
+            <div class="testimonial-item bg-light my-4" style="height: 300px;">
+                <img class="img-fluid w-100 h-100 rounded" src="img/t4.jpeg" style="object-fit: cover;">
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Testimonial End -->
 
+<!-- Bootstrap CSS and JS -->
+<link href="https://stackpath.bootstrapcdn.com/bootstrap/5.1.3/css/bootstrap.min.css" rel="stylesheet">
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/5.1.3/js/bootstrap.bundle.min.js"></script>
+
+
+     
+    
+    <style>
+    .nightfear {
+        background-color: white;
+    }
+    .nightfear:hover {
+        background-color: rgba(255, 247, 243, 255);
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    }
+    .pro-drop {
+        display: flex;
+        justify-content: space-between;
+    }
+</style>
+
+<!-- Business Challenges Start -->
+<div class="container-fluid py-5 wow fadeInUp" data-wow-delay="0.1s">
+    <div class="container py-5">
+        <div class="section-title text-center position-relative pb-3 mb-5 mx-auto" style="max-width: 600px;">
+            <h1 class="fw-bold text-primary text-uppercase">Perks & Benefits</h1>
+        </div>
+        <div class="row g-5">
+            <!--div class="col-lg-7">
+                <div class="align-items-center justify-content-center">
+                    <div class="dropdown mt-3 pro-drop">
+                        <p>Are you struggling with on-premises infrastructure limitations?</p>
+                       
+                    </div>
+                    <div class="collapse pro-drop" id="collapse1">
+                        <div class="card card-body">
+                            We help you migrate and manage your workloads in the cloud, scaling resources up or down as needed to meet your business demands.
+                        </div>
+                    </div>
+                    <hr>
+                </div>
+            </div-->
+            
+            <div class="col-lg-7">
+    <div class="align-items-center justify-content-center">
+        <div class="dropdown mt-3 pro-drop">
+            <div class="section-title position-relative pb-3 mb-5">
+                <h3 class="fw-bold text-primary text-uppercase">Grow with us</h3>
+                            
+            </div>
+        </div>
+        
+        <h5>Megamax makes sure that its employees are being paid according to the current market norms. Our benefits package includes medical claims, dental and vision checkups, and treatment for employees and their spouses or dependent children. You’ll also have a benefit of 20 days of paid family leaves, or adoption, maternity leaves. Along with daily lunch and snacks at the office.</h5>
+        
+    </div>
+</div>
+
+
+            <div class="col-lg-5" style="min-height: 400px;">
+                <div class="position-relative h-100">
+                    <img class="position-absolute w-100 h-100 rounded wow zoomIn" data-wow-delay="0.9s" src="img/Grow-with-Us.jpg" style="width:200px;object-fit: cover;">
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Business Challenges End -->
+
+<!-- Bootstrap CSS and JS -->
+<link href="https://stackpath.bootstrapcdn.com/bootstrap/5.1.3/css/bootstrap.min.css" rel="stylesheet">
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/5.1.3/js/bootstrap.bundle.min.js"></script>
+
+
+
+    <style>
+        #full-page-banner {
+            height: 100vh;
+            width: 100vw;
+            object-fit: cover; /* Ensures the image covers the whole area without distortion */
+            margin: 0; /* Removes any default margin */
+        }
+        .container-fluid {
+            padding: 0; /* Removes padding from the container */
+        }
+    </style>
+    
+    <!--Benefits Start-->
+    <!--div class="container-fluid pb-5 wow fadeInUp " data-wow-delay="0.1s">
+        <div class="container pb-5 ">
+            <div class="row g-5">
+                <div class="col-lg-5" style="min-height: 400px; ">
+                    <div class="position-relative h-100">
+                        <img class="position-absolute w-100 h-100 rounded wow zoomIn" data-wow-delay="0.9s" src="img/cloud_benefits.jpg" style="width:200px;object-fit: cover;">
+                    </div>
+                </div>
+                <div class="col-lg-7">
+                    <div class="align-items-center justify-content-center ">
+                        
+                        
+                        <style>
+                            .pro-drop {
+                                display: flex;
+                                justify-content: space-between;
+                            }
+                        </style>
+                        
+                            <div>
+                        <div class="dropdown mt-3 pro-drop">
+                            
+                        </div>
+                        <div class="collapse pro-drop" id="collapse12">
+                            <div class="card card-body">
+                                Respond to changing business needs with ease by scaling your cloud resources on-demand.
+                            </div>
+                        </div>
+                    </div>
+                    <hr>
+
+                    </div>
+                </div>
+                
+            </div>
+        </div>
+    </div-->
+    
+    <!-- Benefits Start -->
+<div class="container-fluid pb-5 wow fadeInUp" data-wow-delay="0.1s">
+    <div class="container pb-5">
+        <div class="row g-5">
+            <div class="col-lg-5" style="min-height: 400px;">
+                <div class="position-relative h-100">
+                    <img class="position-absolute w-100 h-100 rounded wow zoomIn" data-wow-delay="0.9s" src="img/Become a Part of the organization and Stay Updated.png" style="object-fit: cover;">
+                </div>
+            </div>
+            <div class="col-lg-7">
+                <div class="align-items-center justify-content-center">
+                    <div class="dropdown mt-3 pro-drop">
+                        <div class="section-title position-relative pb-3 mb-5">
+                            <h3 class="fw-bold text-primary text-uppercase">Become a Part of the organization and Stay Updated</h3>
+                        </div>
+                    </div>
+                    <h5>We make sure that every employee feels like they are an integral part of the organization. We keep our employees well informed and updated with the necessary information they need for performing their jobs well. We also conduct various meetings, circulate emails and newsletters.</h5>
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Benefits End -->
+
+
+    <style>
+
+        .containerr {
+            position: relative;
+            width: 100%;
+            /* min-height: 100vh; */
+            padding: 30px 10%;
+        }
+
+        .containerr .main-title {
+            /* max-width: 700px; */
+            margin: 0px auto;
+            text-align: center;
+            font-family: helvetica;
+        }
+
+        .containerr .main-title h1 {
+            position: relative;
+            font-size: 40px;
+            color: #242223;
+            margin-bottom: 30px;
+            display: inline-block;
+        }
+
+        .containerr .main-title h1::before {
+            content: '';
+            position: absolute;
+            width: 100%;
+            height: 1px;
+            /* top: 125%; */
+            left: 0;
+            background-color: #808080;
+        }
+
+        .containerr .main-title h1::after {
+            content: '';
+            position: absolute;
+            width: 50%;
+            height: 3px;
+            background-color: #d03645;
+            top: calc(125% - 1px);
+            left: 50%;
+            transform: translateX(-50%);
+        }
+
+        .main-title p {
+            color: #808080;
+        }
+
+        .containerr .row {
+            width: 100%;
+            display: flex;
+            justify-content: space-between;
+            /* margin-top: 70px; */
+
+        }
+
+        .row .col {
+            flex-basis: 46%;
+        }
+
+        .row .sub-title h2 {
+            position: relative;
+            color: #242223;
+            font-size: 22px;
+            font-family: helvetica;
+            display: inline-block;
+            margin-bottom: 30px;
+        }
+
+        .row .sub-title h2::before {
+            content: '';
+            position: absolute;
+            width: 50%;
+            height: 1px;
+            top: 125%;
+            left: 0;
+            background-color: #808080;
+        }
+
+        .row .sub-title h2::after {
+            content: '';
+            position: absolute;
+            width: 25%;
+            height: 3px;
+            top: calc(125% - 1px);
+            left: 0;
+            background-color: #d03645;
+        }
+
+        .subjectr {
+            font-size: 18px;
+            font-weight: thin;
+            color: #808080;
+            padding-bottom: 15px;
+            text-transform: uppercase;
+        }
+
+        .progress-barr {
+            position: relative;
+            width: 100%;
+            height: 5px;
+            background-color: #808080;
+            border-radius: 15px;
+            margin-bottom: 20px;
+        }
+
+        .progress-barr::after {
+            position: absolute;
+            content: attr(value);
+            top: -35px;
+            right: 0;
+            color: #808080;
+            font-size: 18px;
+        }
+
+        .progress-liner {
+            position: absolute;
+            width: 0%;
+            height: 7px;
+            background-color: #d03645;
+            border-radius: 15px;
+            top: -1px;
+            animation: animate 1.5s cubic-bezier(1, 0.2, 0.2, 1) forwards;
+        }
+
+        @keyframes animate {
+            100% {
+                width: 100%;
+            }
+        }
+
+        .progress-liner::after {
+            content: '';
+            position: absolute;
+            width: 13px;
+            height: 13px;
+            border-radius: 50%;
+            top: 50%;
+            left: 100%;
+            transform: translate(-50%, -50%);
+            background-color: #d03645;
+        }
+
+        @media(max-width: 768px) {
+            .containerr {
+                padding: 30px 8%;
+            }
+        }
+
+        @media(max-width: 568px) {
+            .containerr .row {
+                flex-direction: column;
+            }
+
+            .containerr .main-title h1 {
+                font-size: 36px;
+            }
+
+            .containerr .row {
+                margin-top: 30px;
+            }
+
+            .row .col:nth-child(2) {
+                margin-top: 20px;
+            }
+        }
+    </style>
+    <!--Benefits End-->
+    
+    
+    <style>
+    .nightfear {
+        background-color: white;
+    }
+    .nightfear:hover {
+        background-color: rgba(255, 247, 243, 255);
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    }
+    .pro-drop {
+        display: flex;
+        justify-content: space-between;
+    }
+</style>
+
+<!-- Business Challenges Start -->
+<div class="container-fluid py-5 wow fadeInUp" data-wow-delay="0.1s">
+    <div class="container py-5">
+        
+        <div class="row g-5">
+                <div class="col-lg-7">
+    <div class="align-items-center justify-content-center">
+        <div class="dropdown mt-3 pro-drop">
+            <div class="section-title position-relative pb-3 mb-5">
+                <h3 class="fw-bold text-primary text-uppercase">We contribute to your Personal Development</h3>
+                            
+            </div>
+        </div>
+        
+        <h5>We want you to keep growing and learning and help you with gaining experience and expertise for your personal development. Hence, every now and then we arrange workshops related to different aspects of professional and social welfare programs and community activities.</h5>
+        
+    </div>
+</div>
+            <div class="col-lg-5" style="min-height: 400px;">
+                <div class="position-relative h-100">
+                    <img class="position-absolute w-100 h-100 rounded wow zoomIn" data-wow-delay="0.9s" src="img/DSC_0581.jpg" style="width:200px;object-fit: cover;">
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Business Challenges End -->
+
+<!-- Bootstrap CSS and JS -->
+<link href="https://stackpath.bootstrapcdn.com/bootstrap/5.1.3/css/bootstrap.min.css" rel="stylesheet">
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/5.1.3/js/bootstrap.bundle.min.js"></script>
+
+
+<style>
+        #full-page-banner {
+            height: 100vh;
+            width: 100vw;
+            object-fit: cover; /* Ensures the image covers the whole area without distortion */
+            margin: 0; /* Removes any default margin */
+        }
+        .container-fluid {
+            padding: 0; /* Removes padding from the container */
+        }
+    </style>
+    
+    <!-- Benefits Start -->
+<div class="container-fluid pb-5 wow fadeInUp" data-wow-delay="0.1s">
+    <div class="container pb-5">
+        <div class="row g-5">
+            <div class="col-lg-5" style="min-height: 400px;">
+                <div class="position-relative h-100">
+                    <img class="position-absolute w-100 h-100 rounded wow zoomIn" data-wow-delay="0.9s" src="img/Be-part-of-our-Fun-and-engaging-Company.jpg" style="object-fit: cover;">
+                </div>
+            </div>
+            <div class="col-lg-7">
+                <div class="align-items-center justify-content-center">
+                    <div class="dropdown mt-3 pro-drop">
+                        <div class="section-title position-relative pb-3 mb-5">
+                            <h3 class="fw-bold text-primary text-uppercase">Be part of our Fun and engaging Company</h3>
+                        </div>
+                    </div>
+                    <h5>We can assure you that you’re gonna enjoy the company of fun-loving and welcoming staff who will always be there to cheer you up. We conduct weekly bonding activities for employees to get together and connect with each other.</h5>
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Benefits End -->
+
+
+    <style>
+
+        .containerr {
+            position: relative;
+            width: 100%;
+            /* min-height: 100vh; */
+            padding: 30px 10%;
+        }
+
+        .containerr .main-title {
+            /* max-width: 700px; */
+            margin: 0px auto;
+            text-align: center;
+            font-family: helvetica;
+        }
+
+        .containerr .main-title h1 {
+            position: relative;
+            font-size: 40px;
+            color: #242223;
+            margin-bottom: 30px;
+            display: inline-block;
+        }
+
+        .containerr .main-title h1::before {
+            content: '';
+            position: absolute;
+            width: 100%;
+            height: 1px;
+            /* top: 125%; */
+            left: 0;
+            background-color: #808080;
+        }
+
+        .containerr .main-title h1::after {
+            content: '';
+            position: absolute;
+            width: 50%;
+            height: 3px;
+            background-color: #d03645;
+            top: calc(125% - 1px);
+            left: 50%;
+            transform: translateX(-50%);
+        }
+
+        .main-title p {
+            color: #808080;
+        }
+
+        .containerr .row {
+            width: 100%;
+            display: flex;
+            justify-content: space-between;
+            /* margin-top: 70px; */
+
+        }
+
+        .row .col {
+            flex-basis: 46%;
+        }
+
+        .row .sub-title h2 {
+            position: relative;
+            color: #242223;
+            font-size: 22px;
+            font-family: helvetica;
+            display: inline-block;
+            margin-bottom: 30px;
+        }
+
+        .row .sub-title h2::before {
+            content: '';
+            position: absolute;
+            width: 50%;
+            height: 1px;
+            top: 125%;
+            left: 0;
+            background-color: #808080;
+        }
+
+        .row .sub-title h2::after {
+            content: '';
+            position: absolute;
+            width: 25%;
+            height: 3px;
+            top: calc(125% - 1px);
+            left: 0;
+            background-color: #d03645;
+        }
+
+        .subjectr {
+            font-size: 18px;
+            font-weight: thin;
+            color: #808080;
+            padding-bottom: 15px;
+            text-transform: uppercase;
+        }
+
+        .progress-barr {
+            position: relative;
+            width: 100%;
+            height: 5px;
+            background-color: #808080;
+            border-radius: 15px;
+            margin-bottom: 20px;
+        }
+
+        .progress-barr::after {
+            position: absolute;
+            content: attr(value);
+            top: -35px;
+            right: 0;
+            color: #808080;
+            font-size: 18px;
+        }
+
+        .progress-liner {
+            position: absolute;
+            width: 0%;
+            height: 7px;
+            background-color: #d03645;
+            border-radius: 15px;
+            top: -1px;
+            animation: animate 1.5s cubic-bezier(1, 0.2, 0.2, 1) forwards;
+        }
+
+        @keyframes animate {
+            100% {
+                width: 100%;
+            }
+        }
+
+        .progress-liner::after {
+            content: '';
+            position: absolute;
+            width: 13px;
+            height: 13px;
+            border-radius: 50%;
+            top: 50%;
+            left: 100%;
+            transform: translate(-50%, -50%);
+            background-color: #d03645;
+        }
+
+        @media(max-width: 768px) {
+            .containerr {
+                padding: 30px 8%;
+            }
+        }
+
+        @media(max-width: 568px) {
+            .containerr .row {
+                flex-direction: column;
+            }
+
+            .containerr .main-title h1 {
+                font-size: 36px;
+            }
+
+            .containerr .row {
+                margin-top: 30px;
+            }
+
+            .row .col:nth-child(2) {
+                margin-top: 20px;
+            }
+        }
+    </style>
+    <!--Benefits End-->
+    
+
+    
 
     <!-- Footer Start -->
     <?php
