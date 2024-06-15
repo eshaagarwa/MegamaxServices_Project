@@ -565,7 +565,8 @@
                 <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.3s">
                     <div class="service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center">
                         <div class="service-icon">
-                            <i class="fa fa-shield-alt text-white"></i>
+                            <!--i class="fa fa-shield-alt text-white"></i-->
+                            <i class="text-white"> <img src="img/offerings-icons/inframanged.png" style="width: 30px; height: 30px;"></i>
                         </div>
                         <h4 class="mb-3">Infra Managed Services</h4>
                         <p class="m-0"> Optimize your infrastructure with our end-to-end Managed Services.</p>
@@ -608,7 +609,7 @@
                 <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.6s">
                     <div class="service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center">
                         <div class="service-icon">
-                            <i class="fa fa-search text-white"></i>
+                            <i class="text-white"> <img src="img/offerings-icons/App-opps.svg" style="width: 30px; height: 30px;"></i>
                         </div>
                         <h4 class="mb-3">AppOps</h4>
                         <p class="m-0"> Ensure the smooth operation and optimization of your applications with our specialized AppOps solutions.
@@ -628,7 +629,7 @@
                 <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.6s">
                     <div class="service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center">
                         <div class="service-icon">
-                            <i class="fa fa-search text-white"></i>
+                            <i class="text-white"> <img src="img/offerings-icons/dev-ops.svg" style="width: 30px; height: 30px;"></i>
                         </div>
                         <h4 class="mb-3">DevOps</h4>
                         <p class="m-0"> Streamline your development and operations seamlessly with our tailored DevOps solutions.
