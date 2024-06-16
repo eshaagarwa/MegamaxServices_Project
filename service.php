@@ -175,12 +175,21 @@
                 <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.3s">
                     <div class="service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center">
                         <div class="service-icon">
-                            <i class="text-white"> <img src="img/offerings-icons/inframanged.png" style="width: 30px; height: 30px;"></i>
+                            <!--i class="text-white"> <img src="img/offerings-icons/inframanged.png" style="width: 30px; height: 30px;"></i-->
+                            <i class="text-white">
+    <img src="img/offerings-icons/inframanged.png" style="width: 30px; height: 30px; margin-top: -5px;">
+</i>
+
                         </div>
                         <h4 class="mb-3">Infra Managed Services</h4>
-                        <p class="m-0"> Optimize your infrastructure with our end-to-end Managed Services.
+                        <br>
+                        <p class="m-0"> Optimize your infrastructure with  
 
                         </p>
+                        <p class="m-0"> our end-to-end Managed Services.
+
+                        </p>
+                        
                         <a class="btn btn-lg btn-primary rounded" href="Infra Managed Services.html"><i class="bi bi-arrow-right"></i>ReadMore</a>
                     </div>
                 </div>
@@ -190,6 +199,7 @@
                             <i class="fa fa-chart-pie text-white"></i>
                         </div>
                         <h4 class="mb-3">Cloud</h4>
+                        <br>
                         <p class="m-0">Leverage the power of the cloud to scale, innovate, and drive efficiency with our comprehensive cloud solutions.
 
                         </p>
@@ -203,6 +213,7 @@
                             <i class="fa fa-code text-white"></i>
                         </div>
                         <h4 class="mb-3">App Modernization</h4>
+                        <br>
                         <p class="m-0">Revamp your applications for enhanced performance and scalability with our specialized App Modernization services.
                         </p>
                         <a class="btn btn-lg btn-primary rounded" href="App Modernization.html"><i class="bi bi-arrow-right"></i>ReadMore</a>
@@ -214,6 +225,7 @@
                             <i class="fab fa-android text-white"></i>
                         </div>
                         <h4 class="mb-3">Cyber Security</h4>
+                        <br>
                         <p class="m-0">Protect your digital assets and safeguard your operations with our robust Cyber Security solutions.</p>
                         <a class="btn btn-lg btn-primary rounded" href="cybersecurity.html"><i class="bi bi-arrow-right"></i>ReadMore</a>
                     </div>
@@ -224,6 +236,7 @@
                             <i class="text-white"> <img src="img/offerings-icons/App-opps.svg" style="width: 30px; height: 30px;"></i>
                         </div>
                         <h4 class="mb-3">AppOps</h4>
+                        <br>
                         <p class="m-0"> Ensure the smooth operation and optimization of your applications with our specialized AppOps solutions.
                         </p>
                         <a class="btn btn-lg btn-primary rounded" href="AppOps.html"><i class="bi bi-arrow-right"></i>ReadMore</a>
@@ -244,6 +257,7 @@
                             <i class="text-white"> <img src="img/offerings-icons/dev-ops.svg" style="width: 30px; height: 30px;"></i>
                         </div>
                         <h4 class="mb-3">DevOps</h4>
+                        <br>
                         <p class="m-0"> Streamline your development and operations seamlessly with our tailored DevOps solutions.
                         </p>
                         <a class="btn btn-lg btn-primary rounded" href="devOps.html"><i class="bi bi-arrow-right"></i>ReadMore</a>
