@@ -33,6 +33,7 @@ The MegaMax website is built with a sleek, responsive design and uses subtle ani
 📸 **Screenshots (Output)** 📸  
 Here’s a glimpse of the website’s interface, showcasing its clean design and structured layout.  
 
+![ANIMATED BUTTON](https://github.com/eshaagarwa/MegamaxServices_Project/blob/main/Screenshot%202024-07-12%20120629.png)
 
 🌟 **Enjoy Exploring!** 🌟  
 Feel free to explore the MegaMax website and see how a dynamic service-based website operates. Your feedback is always appreciated! If you would like to contribute or have any suggestions for improvements, don’t hesitate to reach out. Happy coding! 🎉
